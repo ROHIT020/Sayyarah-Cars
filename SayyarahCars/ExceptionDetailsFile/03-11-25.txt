@@ -1,0 +1,114 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/11/2025 14:21:33
+
+Error Line No: at SayyarahCars.Admin.Ship_Confirmation_Report.btnSubmit_Click(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Ship-Confirmation-Report.aspx.cs:line 117
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Inqdate'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Ship-Confirmation-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/11/2025 14:23:10
+
+Error Line No: at SayyarahCars.Admin.Ship_Confirmation_Report.btnSubmit_Click(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Ship-Confirmation-Report.aspx.cs:line 117
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Slock'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Ship-Confirmation-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/11/2025 14:29:36
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Cannot convert a char value to money. The char value has incorrect syntax.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Ship-Confirmation-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/11/2025 14:29:36
+
+Error Line No: at SayyarahCars.Admin.Ship_Confirmation_Report.btnSubmit_Click(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Ship-Confirmation-Report.aspx.cs:line 113
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Ship_Confirmation_Report
+
+Error Page Url: http://localhost:60887/Admin/Ship-Confirmation-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/11/2025 14:29:48
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Cannot convert a char value to money. The char value has incorrect syntax.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Ship-Confirmation-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/11/2025 14:30:20
+
+Error Line No: at SayyarahCars.Admin.Ship_Confirmation_Report.btnSubmit_Click(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Ship-Confirmation-Report.aspx.cs:line 113
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Ship_Confirmation_Report
+
+Error Page Url: http://localhost:60887/Admin/Ship-Confirmation-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

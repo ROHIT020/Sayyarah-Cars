@@ -1,0 +1,190 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 14:07:16
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in Z:\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 14:07:16
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in Z:\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 14:07:16
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in Z:\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 14:07:16
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in Z:\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 14:07:19
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in Z:\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 14:07:19
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in Z:\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 14:07:19
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in Z:\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 14:07:20
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in Z:\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 14:07:20
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in Z:\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 16:18:31
+
+Error Line No: at SayyarahCars.Admin.Add_Push_Price.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Add-Push-Price.aspx.cs:line 32
+
+Error Message: String was not recognized as a valid DateTime.
+
+Exception Type: System.FormatException
+
+Error Location: System.DateTimeParse
+
+Error Page Url: http://localhost:8006/Admin/Add-Push-Price?id=xoeFW9cLZG4CX+CDRbIhNQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

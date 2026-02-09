@@ -1,0 +1,57 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/09/2025 11:33:12
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Could not find stored procedure 'AuctionPaymentDML'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:8006/Admin/Add-Push-Price?id=CvOqGitnAusClAd3OkJ+cg==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/09/2025 11:33:12
+
+Error Line No: at SayyarahCars.Admin.Add_Push_Price.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Add-Push-Price.aspx.cs:line 32
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Add_Push_Price
+
+Error Page Url: http://localhost:8006/Admin/Add-Push-Price?id=CvOqGitnAusClAd3OkJ+cg==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/09/2025 16:36:25
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'USP_SearchPushPrice' expects parameter '@RecordCount', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:8006/Admin/Update-Push-Price
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

@@ -1,0 +1,76 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 11/09/2025 09:01:04
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The remote computer refused the network connection.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlInternalConnectionTds
+
+Error Page Url: http://localhost:8006/Admin/Add-Purchase?id=0npS3Krc0EGoHRJy nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 11/09/2025 09:01:04
+
+Error Line No: at SayyarahCars.Admin.Add_Purchase.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Add-Purchase.aspx.cs:line 31
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: COMMON.CommonFunction
+
+Error Page Url: http://localhost:8006/Admin/Add-Purchase?id=0npS3Krc0EGoHRJy nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 11/09/2025 10:11:31
+
+Error Line No: at SayyarahCars.Admin.AuctionToPortDays.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\Admin\AuctionToPortDays.aspx.cs:line 32
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: COMMON.CommonFunction
+
+Error Page Url: http://localhost:8006/Admin/AuctionToPortDays
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 11/09/2025 10:11:41
+
+Error Line No: at SayyarahCars.Admin.AuctionToPortDays.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\Admin\AuctionToPortDays.aspx.cs:line 32
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: COMMON.CommonFunction
+
+Error Page Url: http://localhost:8006/Admin/AuctionToPortDays
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

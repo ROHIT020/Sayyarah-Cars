@@ -1,0 +1,95 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 02/08/2025 15:39:17
+
+Error Line No: at SayyarahCars.CommonMasters.View_Ship.BindMaster() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\View-Ship.aspx.cs:line 29
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.CommonMasters.View_Ship
+
+Error Page Url: http://localhost:8006/CommonMasters/View-Ship
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 02/08/2025 16:01:41
+
+Error Line No: at SayyarahCars.CommonMasters.View_Ship.bindship() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\View-Ship.aspx.cs:line 51
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.CommonMasters.View_Ship
+
+Error Page Url: http://localhost:8006/CommonMasters/View-Ship
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 02/08/2025 16:01:54
+
+Error Line No: at SayyarahCars.CommonMasters.View_Ship.bindship() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\View-Ship.aspx.cs:line 51
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.CommonMasters.View_Ship
+
+Error Page Url: http://localhost:8006/CommonMasters/View-Ship
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 02/08/2025 16:04:17
+
+Error Line No: at SayyarahCars.CommonMasters.Ship_Master.bindfillter() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\Ship-Master.aspx.cs:line 37
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.CommonMasters.Ship_Master
+
+Error Page Url: http://localhost:8006/CommonMasters/Ship-Master
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 02/08/2025 16:25:36
+
+Error Line No: at SayyarahCars.CommonMasters.Ship_Master.bindfillter() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\Ship-Master.aspx.cs:line 37
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.CommonMasters.Ship_Master
+
+Error Page Url: http://localhost:8006/CommonMasters/Ship-Master
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

@@ -1,0 +1,798 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:13:49
+
+Error Line No: at SayyarahCars.Admin.Add_User.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Add-User.aspx.cs:line 34
+
+Error Message: Object cannot be cast from DBNull to other types.
+
+Exception Type: System.InvalidCastException
+
+Error Location: System.DBNull
+
+Error Page Url: http://localhost:8006/Admin/Add-user?id=CvOqGitnAusClAd3OkJ+cg==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:51:32
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlInternalConnectionTds
+
+Error Page Url: http://localhost:8006/Admin/Manage-User
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:51:54
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:51:54
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:51:54
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:51:54
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:51:54
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:51:54
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:51:54
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:51:54
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:51:54
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:51:58
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:51:59
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:51:59
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:51:59
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:51:59
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:51:59
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:52:00
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:52:00
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:52:00
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:52:00
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:52:01
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:52:01
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:52:02
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:52:02
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:52:02
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:52:02
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:52:56
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlInternalConnectionTds
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:52:56
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 11:52:56
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:8006/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 14:52:09
+
+Error Line No: at SayyarahCars.Admin.Manage_Products.Binddata() in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Products.aspx.cs:line 36
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MakerName'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:8006/Admin/Manage-Products
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 14:54:15
+
+Error Line No: at SayyarahCars.Admin.Manage_Products.Binddata() in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Products.aspx.cs:line 36
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MakerName'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:8006/Admin/Manage-Products
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 14:54:46
+
+Error Line No: at SayyarahCars.Admin.Manage_Products.Binddata() in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Products.aspx.cs:line 36
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MakerName'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:8006/Admin/Manage-Products
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 15:16:23
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Could not find stored procedure 'URP_SelectProductList'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/WebServices/jquerydata.asmx/GenericSearchMethod
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 15:56:25
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: The number of rows provided for a FETCH clause must be greater then zero.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Products
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 15:56:25
+
+Error Line No: at SayyarahCars.Admin.Manage_Products.bindProduct(Int32 pageNo) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Products.aspx.cs:line 103
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Products
+
+Error Page Url: http://localhost:8006/Admin/Manage-Products
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 15:56:30
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: The number of rows provided for a FETCH clause must be greater then zero.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Products
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 15:56:30
+
+Error Line No: at SayyarahCars.Admin.Manage_Products.bindProduct(Int32 pageNo) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Products.aspx.cs:line 103
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Products
+
+Error Page Url: http://localhost:8006/Admin/Manage-Products
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 15:56:30
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: The number of rows provided for a FETCH clause must be greater then zero.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Products
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 15:56:30
+
+Error Line No: at SayyarahCars.Admin.Manage_Products.bindProduct(Int32 pageNo) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Products.aspx.cs:line 103
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Products
+
+Error Page Url: http://localhost:8006/Admin/Manage-Products
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 15:57:15
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: The number of rows provided for a FETCH clause must be greater then zero.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Products
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/09/2025 15:57:15
+
+Error Line No: at SayyarahCars.Admin.Manage_Products.bindProduct(Int32 pageNo) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Products.aspx.cs:line 103
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Products
+
+Error Page Url: http://localhost:8006/Admin/Manage-Products
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

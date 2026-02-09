@@ -1,0 +1,38 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/10/2025 12:22:34
+
+Error Line No: at SayyarahCars.Admin.Update_Remark.CreateExcelFile(DataTable Excel) in Y:\SayyarahCars\SayyarahCars\Admin\Update-Remark.aspx.cs:line 258
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://192.168.10.99:8006/Admin/Update-Remark
+
+User Host IP: 192.168.10.45
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/10/2025 12:22:34
+
+Error Line No: at SayyarahCars.Admin.Update_Remark.btnDownload_Click(Object sender, EventArgs e) in Y:\SayyarahCars\SayyarahCars\Admin\Update-Remark.aspx.cs:line 223
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: SayyarahCars.Admin.Update_Remark
+
+Error Page Url: http://192.168.10.99:8006/Admin/Update-Remark
+
+User Host IP: 192.168.10.45
+
+
+--------------------------------*End*------------------------------------------
+

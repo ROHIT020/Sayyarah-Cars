@@ -1,0 +1,437 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 11:22:59
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'USP_CountryMasterDML' expects parameter '@CountryName', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:8006/CommonMasters/Country
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 11:22:59
+
+Error Line No: at SayyarahCars.CommonMasters.Country.bindAllCountry() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\Country.aspx.cs:line 104
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.CommonMasters.Country
+
+Error Page Url: http://localhost:8006/CommonMasters/Country
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 11:23:21
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'USP_CountryMasterDML' expects parameter '@CountryName', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:8006/CommonMasters/Country
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 11:23:21
+
+Error Line No: at SayyarahCars.CommonMasters.Country.bindAllCountry() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\Country.aspx.cs:line 104
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.CommonMasters.Country
+
+Error Page Url: http://localhost:8006/CommonMasters/Country
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 11:27:32
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'USP_CountryMasterDML' expects parameter '@CountryName', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:8006/CommonMasters/Country
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 11:27:32
+
+Error Line No: at SayyarahCars.CommonMasters.Country.bindAllCountry() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\Country.aspx.cs:line 102
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.CommonMasters.Country
+
+Error Page Url: http://localhost:8006/CommonMasters/Country
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 11:27:42
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'USP_CountryMasterDML' expects parameter '@CountryName', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:8006/CommonMasters/Country
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 11:27:42
+
+Error Line No: at SayyarahCars.CommonMasters.Country.bindAllCountry() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\Country.aspx.cs:line 102
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.CommonMasters.Country
+
+Error Page Url: http://localhost:8006/CommonMasters/Country
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 14:02:19
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'USP_PortMasterDML' expects parameter '@Action', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:8006/CommonMasters/ManagePort
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 14:02:19
+
+Error Line No: at SayyarahCars.CommonMasters.ManagePort.binddata() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManagePort.aspx.cs:line 106
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.CommonMasters.ManagePort
+
+Error Page Url: http://localhost:8006/CommonMasters/ManagePort
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 14:02:36
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'USP_PortMasterDML' expects parameter '@Action', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:8006/CommonMasters/ManagePort
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 14:02:36
+
+Error Line No: at SayyarahCars.CommonMasters.ManagePort.binddata() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManagePort.aspx.cs:line 106
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.CommonMasters.ManagePort
+
+Error Page Url: http://localhost:8006/CommonMasters/ManagePort
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 14:58:44
+
+Error Line No: at SayyarahCars.Admin.ViewShipDetails.getShipingCompany() in E:\Projects\SayyarahCars\SayyarahCars\Admin\ViewShipDetails.aspx.cs:line 31
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.ViewShipDetails
+
+Error Page Url: http://localhost:8006/Admin/ViewShipDetails
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 14:58:44
+
+Error Line No: at SayyarahCars.Admin.ViewShipDetails.getShipDetailsData() in E:\Projects\SayyarahCars\SayyarahCars\Admin\ViewShipDetails.aspx.cs:line 55
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.ViewShipDetails
+
+Error Page Url: http://localhost:8006/Admin/ViewShipDetails
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 14:58:47
+
+Error Line No: at SayyarahCars.Admin.Add_Ship.getShipingPortTAndCountry() in E:\Projects\SayyarahCars\SayyarahCars\Admin\Add-Ship.aspx.cs:line 44
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Add_Ship
+
+Error Page Url: http://localhost:8006/Admin/Add-Ship
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 14:58:56
+
+Error Line No: at SayyarahCars.Admin.ViewShipDetails.getShipDetailsData() in E:\Projects\SayyarahCars\SayyarahCars\Admin\ViewShipDetails.aspx.cs:line 55
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.ViewShipDetails
+
+Error Page Url: http://localhost:8006/Admin/ViewShipDetails
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 15:37:13
+
+Error Line No: at SayyarahCars.Admin.ViewShipDetails.getShipingCompany() in E:\Projects\SayyarahCars\SayyarahCars\Admin\ViewShipDetails.aspx.cs:line 31
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.ViewShipDetails
+
+Error Page Url: http://localhost:8006/Admin/ViewShipDetails
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 15:37:13
+
+Error Line No: at SayyarahCars.Admin.ViewShipDetails.getShipDetailsData() in E:\Projects\SayyarahCars\SayyarahCars\Admin\ViewShipDetails.aspx.cs:line 55
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.ViewShipDetails
+
+Error Page Url: http://localhost:8006/Admin/ViewShipDetails
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 16:08:25
+
+Error Line No: at SayyarahCars.CommonMasters.ManageShipDetails.getShipingCompany() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageShipDetails.aspx.cs:line 31
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.CommonMasters.ManageShipDetails
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageShipDetails
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 16:08:25
+
+Error Line No: at SayyarahCars.CommonMasters.ManageShipDetails.getShipDetailsData() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageShipDetails.aspx.cs:line 55
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.CommonMasters.ManageShipDetails
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageShipDetails
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 16:12:08
+
+Error Line No: at SayyarahCars.CommonMasters.ManageShipDetails.getShipDetailsData() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageShipDetails.aspx.cs:line 55
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.CommonMasters.ManageShipDetails
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageShipDetails
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 16:20:29
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Could not find stored procedure 'USP_SelectPort'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageTerminal
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/09/2025 16:20:29
+
+Error Line No: at SayyarahCars.CommonMasters.ManageTerminal.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageTerminal.aspx.cs:line 26
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: COMMON.CommonFunction
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageTerminal
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

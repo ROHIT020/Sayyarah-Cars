@@ -1,0 +1,38 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/10/2025 09:25:23
+
+Error Line No: at SayyarahCars.Admin.Update_Fuzokuhin.GetAllFuzuhokin()
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Fname'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Fuzokuhin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/10/2025 10:03:55
+
+Error Line No: at SayyarahCars.Admin.Update_Fuzokuhin.btnSubmit_Click(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Update-Fuzokuhin.aspx.cs:line 49
+
+Error Message: Index was outside the bounds of the array.
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location: DAL.clsAdmin
+
+Error Page Url: http://localhost:60887/Admin/Update-Fuzokuhin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

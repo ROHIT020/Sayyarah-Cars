@@ -1,0 +1,285 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/11/2025 09:34:32
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid column name 'productid'.
+Invalid column name 'variantid'.
+Invalid column name 'ChassisNo'.
+Invalid column name 'PortFromId'.
+Invalid column name 'AuctionId'.
+Invalid column name 'ShippingId'.
+Invalid column name 'productid'.
+Invalid column name 'productid'.
+Invalid column name 'AuctionId'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Make-Invoice?PId=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/11/2025 09:37:56
+
+Error Line No: at SayyarahCars.Admin.Make_Invoice.Page_Load(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Make-Invoice.aspx.cs:line 32
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Make_Invoice
+
+Error Page Url: http://localhost:60887/Admin/Make-Invoice?PId=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/11/2025 09:38:58
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid column name 'ChassisNo'.
+Invalid column name 'ChassisNo'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/WebServices/jquerydata.asmx/allchassis
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/11/2025 09:39:01
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid column name 'ChassisNo'.
+Invalid column name 'ChassisNo'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/WebServices/jquerydata.asmx/allchassis
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/11/2025 09:39:08
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid column name 'ChassisNo'.
+Invalid column name 'ChassisNo'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/WebServices/jquerydata.asmx/allchassis
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/11/2025 09:40:17
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid column name 'ChassisNo'.
+Invalid column name 'ChassisNo'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/WebServices/jquerydata.asmx/allchassis
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/11/2025 09:42:05
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid column name 'SID'.
+Invalid column name 'SellerType'.
+Ambiguous column name 'PID'.
+Invalid column name 'ChassisNo'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Add-Push-Price?id=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/11/2025 09:42:06
+
+Error Line No: at SayyarahCars.Admin.Add_Push_Price.Page_Load(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Add-Push-Price.aspx.cs:line 32
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Add_Push_Price
+
+Error Page Url: http://localhost:60887/Admin/Add-Push-Price?id=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/11/2025 09:42:34
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid column name 'SID'.
+Invalid column name 'SellerType'.
+Ambiguous column name 'PID'.
+Invalid column name 'ChassisNo'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Add-Push-Price?id=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/11/2025 09:44:45
+
+Error Line No: at SayyarahCars.Admin.Add_Push_Price.Page_Load(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Add-Push-Price.aspx.cs:line 32
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Add_Push_Price
+
+Error Page Url: http://localhost:60887/Admin/Add-Push-Price?id=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/11/2025 10:27:25
+
+Error Line No: at SayyarahCars.Admin.Make_Invoice.btnSubmit_Click(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Make-Invoice.aspx.cs:line 162
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: DAL.clsAdmin
+
+Error Page Url: http://localhost:60887/Admin/Make-Invoice?PId=0npS3Krc0EGoHRJy+nUezQ%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/11/2025 11:20:47
+
+Error Line No: at SayyarahCars.Admin.Make_Invoice.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: DAL.clsAdmin
+
+Error Page Url: http://localhost:60887/Admin/Make-Invoice?PId=CvOqGitnAusClAd3OkJ+cg%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/11/2025 11:24:33
+
+Error Line No: at SayyarahCars.Admin.Make_Invoice.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: DAL.clsAdmin
+
+Error Page Url: http://localhost:60887/Admin/Make-Invoice?PId=CvOqGitnAusClAd3OkJ+cg%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/11/2025 11:28:39
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid column name 'CompanyId'.
+Invalid column name 'ChassisNo'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/GenerateInvoice
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

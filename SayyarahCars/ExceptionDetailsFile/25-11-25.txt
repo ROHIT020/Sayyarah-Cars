@@ -1,0 +1,76 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 25/11/2025 11:36:58
+
+Error Line No: at SayyarahCars.Admin.Ship_Departure.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: String was not recognized as a valid DateTime.
+
+Exception Type: System.FormatException
+
+Error Location: System.DateTimeParse
+
+Error Page Url: http://localhost:60887/Admin/Ship-Departure
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 25/11/2025 12:13:03
+
+Error Line No: at SayyarahCars.Admin.Ship_Departure.GetAllShipDeparture() in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Ship-Departure.aspx.cs:line 108
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Adate'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Ship-Departure
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 25/11/2025 12:35:31
+
+Error Line No: at SayyarahCars.Admin.Ship_Departure.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e)
+
+Error Message: String was not recognized as a valid DateTime.
+
+Exception Type: System.FormatException
+
+Error Location: System.DateTimeParse
+
+Error Page Url: http://localhost:60887/Admin/Ship-Departure
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 25/11/2025 12:35:34
+
+Error Line No: at SayyarahCars.Admin.Ship_Departure.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e)
+
+Error Message: String was not recognized as a valid DateTime.
+
+Exception Type: System.FormatException
+
+Error Location: System.DateTimeParse
+
+Error Page Url: http://localhost:60887/Admin/Ship-Departure
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

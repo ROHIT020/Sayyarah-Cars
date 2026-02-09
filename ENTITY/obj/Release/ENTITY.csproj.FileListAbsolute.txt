@@ -1,0 +1,5 @@
+D:\Professional\Projects\SayyarahCars\SayyarahCars\ENTITY\bin\Release\ENTITY.dll
+D:\Professional\Projects\SayyarahCars\SayyarahCars\ENTITY\bin\Release\ENTITY.pdb
+D:\Professional\Projects\SayyarahCars\SayyarahCars\ENTITY\obj\Release\ENTITY.csproj.CoreCompileInputs.cache
+D:\Professional\Projects\SayyarahCars\SayyarahCars\ENTITY\obj\Release\ENTITY.dll
+D:\Professional\Projects\SayyarahCars\SayyarahCars\ENTITY\obj\Release\ENTITY.pdb

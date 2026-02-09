@@ -1,0 +1,152 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/07/2025 10:16:10
+
+Error Line No: at SayyarahCars.CommonMasters.AddShippingMaster.Page_Load(Object sender, EventArgs e) in D:\18072025\SayyarahCars\SayyarahCars\CommonMasters\AddShippingMaster.aspx.cs:line 34
+
+Error Message: Column 'Archive' does not belong to table Table.
+
+Exception Type: System.ArgumentException
+
+Error Location: System.Data.DataRow
+
+Error Page Url: http://localhost:60887/CommonMasters/AddShippingMaster?id=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/07/2025 10:16:17
+
+Error Line No: at SayyarahCars.CommonMasters.AddShippingMaster.Page_Load(Object sender, EventArgs e) in D:\18072025\SayyarahCars\SayyarahCars\CommonMasters\AddShippingMaster.aspx.cs:line 34
+
+Error Message: Column 'Archive' does not belong to table Table.
+
+Exception Type: System.ArgumentException
+
+Error Location: System.Data.DataRow
+
+Error Page Url: http://localhost:60887/CommonMasters/AddShippingMaster?id=CvOqGitnAusClAd3OkJ+cg==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/07/2025 10:16:25
+
+Error Line No: at SayyarahCars.CommonMasters.AddShippingMaster.Page_Load(Object sender, EventArgs e) in D:\18072025\SayyarahCars\SayyarahCars\CommonMasters\AddShippingMaster.aspx.cs:line 34
+
+Error Message: Column 'Archive' does not belong to table Table.
+
+Exception Type: System.ArgumentException
+
+Error Location: System.Data.DataRow
+
+Error Page Url: http://localhost:60887/CommonMasters/AddShippingMaster?id=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/07/2025 12:19:00
+
+Error Line No: at SayyarahCars.CommonMasters.AddPortPriceMaster.btnSubmit_Click(Object sender, EventArgs e) in D:\18072025\SayyarahCars\SayyarahCars\CommonMasters\AddPortPriceMaster.aspx.cs:line 81
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:60887/CommonMasters/AddPortPriceMaster?id=0npS3Krc0EGoHRJy+nUezQ%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/07/2025 12:19:12
+
+Error Line No: at SayyarahCars.CommonMasters.AddPortPriceMaster.btnSubmit_Click(Object sender, EventArgs e) in D:\18072025\SayyarahCars\SayyarahCars\CommonMasters\AddPortPriceMaster.aspx.cs:line 81
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:60887/CommonMasters/AddPortPriceMaster?id=0npS3Krc0EGoHRJy+nUezQ%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/07/2025 12:19:17
+
+Error Line No: at SayyarahCars.CommonMasters.AddPortPriceMaster.btnSubmit_Click(Object sender, EventArgs e) in D:\18072025\SayyarahCars\SayyarahCars\CommonMasters\AddPortPriceMaster.aspx.cs:line 81
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:60887/CommonMasters/AddPortPriceMaster?id=0npS3Krc0EGoHRJy+nUezQ%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/07/2025 12:20:32
+
+Error Line No: at SayyarahCars.CommonMasters.AddPortPriceMaster.btnSubmit_Click(Object sender, EventArgs e) in D:\18072025\SayyarahCars\SayyarahCars\CommonMasters\AddPortPriceMaster.aspx.cs:line 81
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:60887/CommonMasters/AddPortPriceMaster?id=aKGGfpT3aNpd%2f8kHKhW1ag%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/07/2025 12:23:41
+
+Error Line No: at SayyarahCars.CommonMasters.AddPortPriceMaster.btnSubmit_Click(Object sender, EventArgs e) in D:\18072025\SayyarahCars\SayyarahCars\CommonMasters\AddPortPriceMaster.aspx.cs:line 81
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:60887/CommonMasters/AddPortPriceMaster?id=aKGGfpT3aNpd%2f8kHKhW1ag%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

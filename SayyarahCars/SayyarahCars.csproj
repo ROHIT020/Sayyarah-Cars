@@ -1,0 +1,1966 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.AspNetCore.Components.Analyzers.3.1.0\build\netstandard2.0\Microsoft.AspNetCore.Components.Analyzers.props" Condition="Exists('..\packages\Microsoft.AspNetCore.Components.Analyzers.3.1.0\build\netstandard2.0\Microsoft.AspNetCore.Components.Analyzers.props')" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.Default.props" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.Default.props')" />
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F661B327-5BF2-4BAF-AA25-2AEA6E80B5F6}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SayyarahCars</RootNamespace>
+    <AssemblyName>SayyarahCars</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+    <WebGreaseLibPath>..\packages\WebGrease.1.5.2\lib</WebGreaseLibPath>
+    <TypeScriptToolsVersion>4.3</TypeScriptToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=20.1.0.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <HintPath>..\packages\AjaxControlToolkit.20.1.0\lib\net40\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime, Version=3.4.1.9004, Culture=neutral, PublicKeyToken=eb42632606e9261f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Antlr.3.4.1.9004\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.Cryptography.2.4.0\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="CKEditor.NET, Version=3.6.2.0, Culture=neutral, PublicKeyToken=e379cdf2f8354999, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\CKEditor.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="dotless.AspNet, Version=1.6.4.0, Culture=neutral, PublicKeyToken=96b446c9e63eae34, processorArchitecture=MSIL">
+      <HintPath>..\packages\dotless.AspNetHandler.1.6.4\lib\net461\dotless.AspNet.dll</HintPath>
+    </Reference>
+    <Reference Include="dotless.Core, Version=1.6.4.0, Culture=neutral, PublicKeyToken=96b446c9e63eae34, processorArchitecture=MSIL">
+      <HintPath>..\packages\dotless.Core.1.6.4\lib\net461\dotless.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.4, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.4\lib\net461\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xmlworker, Version=5.5.13.4, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itextsharp.xmlworker.5.5.13.4\lib\net461\itextsharp.xmlworker.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Authorization, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Authorization.3.1.0\lib\netstandard2.0\Microsoft.AspNetCore.Authorization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Components, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Components.3.1.0\lib\netstandard2.0\Microsoft.AspNetCore.Components.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Components.Forms, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Components.Forms.3.1.0\lib\netstandard2.0\Microsoft.AspNetCore.Components.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Components.Web, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Components.Web.3.1.0\lib\netstandard2.0\Microsoft.AspNetCore.Components.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Metadata, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Metadata.3.1.0\lib\netstandard2.0\Microsoft.AspNetCore.Metadata.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.1.1.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.3.1.0\lib\net461\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.3.1.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.3.1.0\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Options, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Options.3.1.0\lib\netstandard2.0\Microsoft.Extensions.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.3.1.0\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.JSInterop, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.JSInterop.3.1.0\lib\netstandard2.0\Microsoft.JSInterop.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.0\lib\netstandard2.0\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ComponentModel.Annotations.4.7.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.3\lib\netstandard2.0\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.7.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=4.0.5.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.4.7.0\lib\netstandard2.0\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.4.7.0\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.2\lib\netstandard2.0\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="WebGrease, Version=1.5.2.14234, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\WebGrease.1.5.2\lib\WebGrease.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Admin\Activation-Rpt.aspx" />
+    <Content Include="Admin\Add-Blog.aspx" />
+    <Content Include="Admin\Add-Client-Broker.aspx" />
+    <Content Include="Admin\Add-Faq.aspx" />
+    <Content Include="Admin\Add-Purchase.aspx" />
+    <Content Include="Admin\Add-Push-Price.aspx" />
+    <Content Include="Admin\AddBankDetails.aspx" />
+    <Content Include="Admin\AddClient.aspx" />
+    <Content Include="Admin\Auction-Car.aspx" />
+    <Content Include="Admin\Auction-Report.aspx" />
+    <Content Include="Admin\Bill-No-History.aspx" />
+    <Content Include="Admin\Blog-Preview.aspx" />
+    <Content Include="Admin\Client-Report.aspx" />
+    <Content Include="Admin\Daily-Report.aspx" />
+    <Content Include="Admin\Document-All-Reports.aspx" />
+    <Content Include="Admin\Document-Another-Status.aspx" />
+    <Content Include="Admin\Document-Auction-Kanri.aspx" />
+    <Content Include="Admin\Document-Confirmation.aspx" />
+    <Content Include="Admin\Document-Rikuji-Reports.aspx" />
+    <Content Include="Admin\Document-Send-Date.aspx" />
+    <Content Include="Admin\Download-Shipping-Details.aspx" />
+    <Content Include="Admin\Full-Report.aspx" />
+    <Content Include="Admin\Fuzokuhin.aspx" />
+    <Content Include="Admin\GenerateInvoice.aspx" />
+    <Content Include="Admin\Inspection-Update.aspx" />
+    <Content Include="Admin\Isogi-Reports.aspx" />
+    <Content Include="Admin\Manage-Invoices.aspx" />
+    <Content Include="Admin\Notify-Party-and-Cfs.aspx" />
+    <Content Include="Admin\Port-History.aspx" />
+    <Content Include="Admin\Print-Client-Voucher.aspx" />
+    <Content Include="Admin\Print-Invoice.aspx" />
+    <Content Include="Admin\Product-Checking.aspx" />
+    <Content Include="Admin\Purchase-Report.aspx" />
+    <Content Include="Admin\Ship-Confirmation-Report.aspx" />
+    <Content Include="Admin\Ship-Departure.aspx" />
+    <Content Include="Admin\Shipped-Cars.aspx" />
+    <Content Include="Admin\Shipping-History.aspx" />
+    <Content Include="Admin\Transport-Bill.aspx" />
+    <Content Include="Admin\Transport-City-Relation.aspx" />
+    <Content Include="Admin\Transport-Details.aspx" />
+    <Content Include="Admin\Transport-History.aspx" />
+    <Content Include="Admin\Transport-Info.aspx" />
+    <Content Include="Admin\Transport-Price.aspx" />
+    <Content Include="Admin\Transport-Status.aspx" />
+    <Content Include="Admin\Unsold-Ship-Car.aspx" />
+    <Content Include="Admin\Update-Another-Status.aspx" />
+    <Content Include="Admin\Update-BillNo.aspx" />
+    <Content Include="Admin\Update-Broker-New.aspx" />
+    <Content Include="Admin\Update-Broker.aspx" />
+    <Content Include="Admin\Update-Doc-Receive-Date.aspx" />
+    <Content Include="Admin\Update-Fuzokuhin.aspx" />
+    <Content Include="Admin\Update-Inner.aspx" />
+    <Content Include="Admin\Update-Loading-Surrender.aspx" />
+    <Content Include="Admin\Update-Logistics.aspx" />
+    <Content Include="Admin\Update-Product-date.aspx" />
+    <Content Include="Admin\Update-Remark.aspx" />
+    <Content Include="Admin\Update-Shipping-Details.aspx" />
+    <Content Include="Admin\Update-Transport.aspx" />
+    <Content Include="Admin\Update-Variant.aspx" />
+    <Content Include="Admin\Updatee-Shipping.aspx" />
+    <Content Include="Admin\UploadDocument.aspx" />
+    <Content Include="Admin\View-Auction-Car.aspx" />
+    <Content Include="Admin\View-Blog-Topic.aspx" />
+    <Content Include="Admin\View-Blogs.aspx" />
+    <Content Include="Admin\YardIn.aspx" />
+    <Content Include="Admin\Yearly-Report.aspx" />
+    <Content Include="CommonMasters\AddCarStatus.aspx" />
+    <Content Include="CommonMasters\AuctionToPortDays.aspx" />
+    <Content Include="Admin\Group-Master.aspx" />
+    <Content Include="Admin\Ledger-Head.aspx" />
+    <Content Include="Admin\Make-Invoice.aspx" />
+    <Content Include="CommonMasters\Add-FOB.aspx" />
+    <Content Include="CommonMasters\Add-Ship.aspx" />
+    <Content Include="Admin\Add-User.aspx" />
+    <Content Include="Admin\Add-Variant.aspx" />
+    <Content Include="Admin\Add-Video.aspx" />
+    <Content Include="CommonMasters\ManageBanks.aspx" />
+    <Content Include="Admin\AddCurrency.aspx" />
+    <Content Include="Admin\Additional-Info.aspx" />
+    <Content Include="Admin\Broker-Address.aspx" />
+    <Content Include="Admin\Broker-Master.aspx" />
+    <Content Include="Admin\ChangePassword.aspx" />
+    <Content Include="Admin\CurrencyMaster.aspx" />
+    <Content Include="Admin\DealerRegistration.aspx" />
+    <Content Include="Admin\Manage-Products.aspx" />
+    <Content Include="Admin\Manage-Purchase.aspx" />
+    <Content Include="Admin\Manage-User.aspx" />
+    <Content Include="Admin\Manage-Variant.aspx" />
+    <Content Include="Admin\Manage-Client.aspx" />
+    <Content Include="Admin\PendingRequests.aspx" />
+    <Content Include="CommonMasters\Add-Shipping-Price.aspx" />
+    <Content Include="Admin\Update-Push-Price.aspx" />
+    <Content Include="Admin\View-Author.aspx" />
+    <Content Include="Admin\Manage-Dealers.aspx" />
+    <Content Include="Admin\View-Faq.aspx" />
+    <Content Include="CommonMasters\AuctionYardMaster.aspx" />
+    <Content Include="CommonMasters\ManageShippingPrice.aspx" />
+    <Content Include="CommonMasters\ManageShipDetails.aspx" />
+    <Content Include="Captcha.aspx" />
+    <Content Include="CommonMasters\ManageFOBPrice.aspx" />
+    <Content Include="CommonMasters\AddAuction.aspx" />
+    <Content Include="CommonMasters\AddAuctionYard.aspx" />
+    <Content Include="CommonMasters\AddBill.aspx" />
+    <Content Include="CommonMasters\AddBodyType.aspx" />
+    <Content Include="CommonMasters\AddConsignee.aspx" />
+    <Content Include="CommonMasters\AddLocation.aspx" />
+    <Content Include="CommonMasters\AddMaker.aspx" />
+    <Content Include="CommonMasters\AddPortPrice.aspx" />
+    <Content Include="CommonMasters\AddShippingCompany.aspx" />
+    <Content Include="CommonMasters\AddTerminal.aspx" />
+    <Content Include="CommonMasters\AddTransport.aspx" />
+    <Content Include="CommonMasters\AssignMenu.aspx" />
+    <Content Include="CommonMasters\OtherChargesType.aspx" />
+    <Content Include="CommonMasters\AuctionBuyingType.aspx" />
+    <Content Include="CommonMasters\ManageAuction.aspx" />
+    <Content Include="CommonMasters\ManageAuctionYard.aspx" />
+    <Content Include="CommonMasters\BillMaster.aspx" />
+    <Content Include="CommonMasters\ManageBodyType.aspx" />
+    <Content Include="CommonMasters\ManageConsignee.aspx" />
+    <Content Include="CommonMasters\ManageCountry.aspx" />
+    <Content Include="CommonMasters\ManageDepartment.aspx" />
+    <Content Include="CommonMasters\ManageLocation.aspx" />
+    <Content Include="CommonMasters\ManageMaker.aspx" />
+    <Content Include="CommonMasters\ManageFeatures.aspx" />
+    <Content Include="CommonMasters\ManageMenu.aspx" />
+    <Content Include="CommonMasters\ManagePort.aspx" />
+    <Content Include="CommonMasters\ManagePortPrice.aspx" />
+    <Content Include="CommonMasters\ManageShippingCompany.aspx" />
+    <Content Include="CommonMasters\ManageTerminal.aspx" />
+    <Content Include="CommonMasters\ManageTransport.aspx" />
+    <Content Include="CommonMasters\UpdateMetaData.aspx" />
+    <Content Include="CommonMasters\ManageCategory.aspx" />
+    <Content Include="Contents\admin\css\all-5.15.4.min.css" />
+    <Content Include="Contents\admin\css\lightbox.min.css" />
+    <Content Include="Contents\admin\css\noty.min.css" />
+    <Content Include="Contents\admin\css\Pagging.css" />
+    <Content Include="Contents\admin\css\toastr.min.css" />
+    <Content Include="Contents\admin\js\fetchChassisNo.js" />
+    <Content Include="Contents\admin\js\fetchTextData.js" />
+    <Content Include="Contents\admin\js\jQuerytoastr.min.js" />
+    <Content Include="Contents\admin\js\lightbox.min.js" />
+    <Content Include="Contents\admin\js\login.js" />
+    <Content Include="Contents\admin\js\noty.min.js" />
+    <Content Include="Contents\admin\js\sweetalert2%4011.js" />
+    <Content Include="Contents\admin\js\toastr.min.js" />
+    <Content Include="Contents\admin\js\ValidateControls.js" />
+    <Content Include="Contents\admin\js\Validation.js" />
+    <Content Include="ckeditor\adapters\jquery.js" />
+    <Content Include="ckeditor\CHANGES.html" />
+    <Content Include="ckeditor\ckeditor.js" />
+    <Content Include="ckeditor\ckeditor_basic.js" />
+    <Content Include="ckeditor\config.js" />
+    <Content Include="ckeditor\contents.css" />
+    <Content Include="ckeditor\images\spacer.gif" />
+    <Content Include="ckeditor\INSTALL.html" />
+    <Content Include="ckeditor\lang\af.js" />
+    <Content Include="ckeditor\lang\ar.js" />
+    <Content Include="ckeditor\lang\bg.js" />
+    <Content Include="ckeditor\lang\bn.js" />
+    <Content Include="ckeditor\lang\bs.js" />
+    <Content Include="ckeditor\lang\ca.js" />
+    <Content Include="ckeditor\lang\cs.js" />
+    <Content Include="ckeditor\lang\cy.js" />
+    <Content Include="ckeditor\lang\da.js" />
+    <Content Include="ckeditor\lang\de.js" />
+    <Content Include="ckeditor\lang\el.js" />
+    <Content Include="ckeditor\lang\en-au.js" />
+    <Content Include="ckeditor\lang\en-ca.js" />
+    <Content Include="ckeditor\lang\en-gb.js" />
+    <Content Include="ckeditor\lang\en.js" />
+    <Content Include="ckeditor\lang\eo.js" />
+    <Content Include="ckeditor\lang\es.js" />
+    <Content Include="ckeditor\lang\et.js" />
+    <Content Include="ckeditor\lang\eu.js" />
+    <Content Include="ckeditor\lang\fa.js" />
+    <Content Include="ckeditor\lang\fi.js" />
+    <Content Include="ckeditor\lang\fo.js" />
+    <Content Include="ckeditor\lang\fr-ca.js" />
+    <Content Include="ckeditor\lang\fr.js" />
+    <Content Include="ckeditor\lang\gl.js" />
+    <Content Include="ckeditor\lang\gu.js" />
+    <Content Include="ckeditor\lang\he.js" />
+    <Content Include="ckeditor\lang\hi.js" />
+    <Content Include="ckeditor\lang\hr.js" />
+    <Content Include="ckeditor\lang\hu.js" />
+    <Content Include="ckeditor\lang\is.js" />
+    <Content Include="ckeditor\lang\it.js" />
+    <Content Include="ckeditor\lang\ja.js" />
+    <Content Include="ckeditor\lang\ka.js" />
+    <Content Include="ckeditor\lang\km.js" />
+    <Content Include="ckeditor\lang\ko.js" />
+    <Content Include="ckeditor\lang\lt.js" />
+    <Content Include="ckeditor\lang\lv.js" />
+    <Content Include="ckeditor\lang\mn.js" />
+    <Content Include="ckeditor\lang\ms.js" />
+    <Content Include="ckeditor\lang\nb.js" />
+    <Content Include="ckeditor\lang\nl.js" />
+    <Content Include="ckeditor\lang\no.js" />
+    <Content Include="ckeditor\lang\pl.js" />
+    <Content Include="ckeditor\lang\pt-br.js" />
+    <Content Include="ckeditor\lang\pt.js" />
+    <Content Include="ckeditor\lang\ro.js" />
+    <Content Include="ckeditor\lang\ru.js" />
+    <Content Include="ckeditor\lang\sk.js" />
+    <Content Include="ckeditor\lang\sl.js" />
+    <Content Include="ckeditor\lang\sr-latn.js" />
+    <Content Include="ckeditor\lang\sr.js" />
+    <Content Include="ckeditor\lang\sv.js" />
+    <Content Include="ckeditor\lang\th.js" />
+    <Content Include="ckeditor\lang\tr.js" />
+    <Content Include="ckeditor\lang\uk.js" />
+    <Content Include="ckeditor\lang\vi.js" />
+    <Content Include="ckeditor\lang\zh-cn.js" />
+    <Content Include="ckeditor\lang\zh.js" />
+    <Content Include="ckeditor\lang\_languages.js" />
+    <Content Include="ckeditor\lang\_translationstatus.txt" />
+    <Content Include="ckeditor\LICENSE.html" />
+    <Content Include="ckeditor\plugins\a11yhelp\dialogs\a11yhelp.js" />
+    <Content Include="ckeditor\plugins\a11yhelp\lang\en.js" />
+    <Content Include="ckeditor\plugins\a11yhelp\lang\he.js" />
+    <Content Include="ckeditor\plugins\about\dialogs\about.js" />
+    <Content Include="ckeditor\plugins\about\dialogs\logo_ckeditor.png" />
+    <Content Include="ckeditor\plugins\adobeair\plugin.js" />
+    <Content Include="ckeditor\plugins\ajax\plugin.js" />
+    <Content Include="ckeditor\plugins\autogrow\plugin.js" />
+    <Content Include="ckeditor\plugins\bbcode\plugin.js" />
+    <Content Include="ckeditor\plugins\clipboard\dialogs\paste.js" />
+    <Content Include="ckeditor\plugins\colordialog\dialogs\colordialog.js" />
+    <Content Include="ckeditor\plugins\devtools\lang\en.js" />
+    <Content Include="ckeditor\plugins\devtools\plugin.js" />
+    <Content Include="ckeditor\plugins\dialog\dialogDefinition.js" />
+    <Content Include="ckeditor\plugins\div\dialogs\div.js" />
+    <Content Include="ckeditor\plugins\docprops\dialogs\docprops.js" />
+    <Content Include="ckeditor\plugins\docprops\plugin.js" />
+    <Content Include="ckeditor\plugins\find\dialogs\find.js" />
+    <Content Include="ckeditor\plugins\flash\dialogs\flash.js" />
+    <Content Include="ckeditor\plugins\flash\images\placeholder.png" />
+    <Content Include="ckeditor\plugins\forms\dialogs\button.js" />
+    <Content Include="ckeditor\plugins\forms\dialogs\checkbox.js" />
+    <Content Include="ckeditor\plugins\forms\dialogs\form.js" />
+    <Content Include="ckeditor\plugins\forms\dialogs\hiddenfield.js" />
+    <Content Include="ckeditor\plugins\forms\dialogs\radio.js" />
+    <Content Include="ckeditor\plugins\forms\dialogs\select.js" />
+    <Content Include="ckeditor\plugins\forms\dialogs\textarea.js" />
+    <Content Include="ckeditor\plugins\forms\dialogs\textfield.js" />
+    <Content Include="ckeditor\plugins\forms\images\hiddenfield.gif" />
+    <Content Include="ckeditor\plugins\iframedialog\plugin.js" />
+    <Content Include="ckeditor\plugins\iframe\dialogs\iframe.js" />
+    <Content Include="ckeditor\plugins\iframe\images\placeholder.png" />
+    <Content Include="ckeditor\plugins\image\dialogs\image.js" />
+    <Content Include="ckeditor\plugins\link\dialogs\anchor.js" />
+    <Content Include="ckeditor\plugins\link\dialogs\link.js" />
+    <Content Include="ckeditor\plugins\link\images\anchor.gif" />
+    <Content Include="ckeditor\plugins\liststyle\dialogs\liststyle.js" />
+    <Content Include="ckeditor\plugins\pagebreak\images\pagebreak.gif" />
+    <Content Include="ckeditor\plugins\pastefromword\filter\default.js" />
+    <Content Include="ckeditor\plugins\pastetext\dialogs\pastetext.js" />
+    <Content Include="ckeditor\plugins\placeholder\dialogs\placeholder.js" />
+    <Content Include="ckeditor\plugins\placeholder\lang\en.js" />
+    <Content Include="ckeditor\plugins\placeholder\lang\he.js" />
+    <Content Include="ckeditor\plugins\placeholder\placeholder.gif" />
+    <Content Include="ckeditor\plugins\placeholder\plugin.js" />
+    <Content Include="ckeditor\plugins\scayt\dialogs\options.js" />
+    <Content Include="ckeditor\plugins\scayt\dialogs\toolbar.css" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_address.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_blockquote.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_div.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_h1.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_h2.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_h3.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_h4.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_h5.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_h6.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_p.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_pre.png" />
+    <Content Include="ckeditor\plugins\smiley\dialogs\smiley.js" />
+    <Content Include="ckeditor\plugins\smiley\images\angel_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\angry_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\broken_heart.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\confused_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\cry_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\devil_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\embaressed_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\envelope.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\heart.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\kiss.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\lightbulb.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\omg_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\regular_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\sad_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\shades_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\teeth_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\thumbs_down.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\thumbs_up.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\tounge_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\whatchutalkingabout_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\wink_smile.gif" />
+    <Content Include="ckeditor\plugins\specialchar\dialogs\specialchar.js" />
+    <Content Include="ckeditor\plugins\specialchar\lang\en.js" />
+    <Content Include="ckeditor\plugins\stylesheetparser\plugin.js" />
+    <Content Include="ckeditor\plugins\styles\styles\default.js" />
+    <Content Include="ckeditor\plugins\tableresize\plugin.js" />
+    <Content Include="ckeditor\plugins\tabletools\dialogs\tableCell.js" />
+    <Content Include="ckeditor\plugins\table\dialogs\table.js" />
+    <Content Include="ckeditor\plugins\templates\dialogs\templates.js" />
+    <Content Include="ckeditor\plugins\templates\templates\default.js" />
+    <Content Include="ckeditor\plugins\templates\templates\images\template1.gif" />
+    <Content Include="ckeditor\plugins\templates\templates\images\template2.gif" />
+    <Content Include="ckeditor\plugins\templates\templates\images\template3.gif" />
+    <Content Include="ckeditor\plugins\uicolor\dialogs\uicolor.js" />
+    <Content Include="ckeditor\plugins\uicolor\lang\en.js" />
+    <Content Include="ckeditor\plugins\uicolor\lang\he.js" />
+    <Content Include="ckeditor\plugins\uicolor\plugin.js" />
+    <Content Include="ckeditor\plugins\uicolor\uicolor.gif" />
+    <Content Include="ckeditor\plugins\uicolor\yui\assets\hue_bg.png" />
+    <Content Include="ckeditor\plugins\uicolor\yui\assets\hue_thumb.png" />
+    <Content Include="ckeditor\plugins\uicolor\yui\assets\picker_mask.png" />
+    <Content Include="ckeditor\plugins\uicolor\yui\assets\picker_thumb.png" />
+    <Content Include="ckeditor\plugins\uicolor\yui\assets\yui.css" />
+    <Content Include="ckeditor\plugins\uicolor\yui\yui.js" />
+    <Content Include="ckeditor\plugins\wsc\dialogs\ciframe.html" />
+    <Content Include="ckeditor\plugins\wsc\dialogs\tmpFrameset.html" />
+    <Content Include="ckeditor\plugins\wsc\dialogs\wsc.css" />
+    <Content Include="ckeditor\plugins\wsc\dialogs\wsc.js" />
+    <Content Include="ckeditor\plugins\xml\plugin.js" />
+    <Content Include="ckeditor\skins\kama\dialog.css" />
+    <Content Include="ckeditor\skins\kama\editor.css" />
+    <Content Include="ckeditor\skins\kama\icons.png" />
+    <Content Include="ckeditor\skins\kama\icons_rtl.png" />
+    <Content Include="ckeditor\skins\kama\images\dialog_sides.gif" />
+    <Content Include="ckeditor\skins\kama\images\dialog_sides.png" />
+    <Content Include="ckeditor\skins\kama\images\dialog_sides_rtl.png" />
+    <Content Include="ckeditor\skins\kama\images\mini.gif" />
+    <Content Include="ckeditor\skins\kama\images\noimage.png" />
+    <Content Include="ckeditor\skins\kama\images\sprites.png" />
+    <Content Include="ckeditor\skins\kama\images\sprites_ie6.png" />
+    <Content Include="ckeditor\skins\kama\images\toolbar_start.gif" />
+    <Content Include="ckeditor\skins\kama\skin.js" />
+    <Content Include="ckeditor\skins\kama\templates.css" />
+    <Content Include="ckeditor\skins\office2003\dialog.css" />
+    <Content Include="ckeditor\skins\office2003\editor.css" />
+    <Content Include="ckeditor\skins\office2003\icons.png" />
+    <Content Include="ckeditor\skins\office2003\icons_rtl.png" />
+    <Content Include="ckeditor\skins\office2003\images\dialog_sides.gif" />
+    <Content Include="ckeditor\skins\office2003\images\dialog_sides.png" />
+    <Content Include="ckeditor\skins\office2003\images\dialog_sides_rtl.png" />
+    <Content Include="ckeditor\skins\office2003\images\mini.gif" />
+    <Content Include="ckeditor\skins\office2003\images\noimage.png" />
+    <Content Include="ckeditor\skins\office2003\images\sprites.png" />
+    <Content Include="ckeditor\skins\office2003\images\sprites_ie6.png" />
+    <Content Include="ckeditor\skins\office2003\skin.js" />
+    <Content Include="ckeditor\skins\office2003\templates.css" />
+    <Content Include="ckeditor\skins\v2\dialog.css" />
+    <Content Include="ckeditor\skins\v2\editor.css" />
+    <Content Include="ckeditor\skins\v2\icons.png" />
+    <Content Include="ckeditor\skins\v2\icons_rtl.png" />
+    <Content Include="ckeditor\skins\v2\images\dialog_sides.gif" />
+    <Content Include="ckeditor\skins\v2\images\dialog_sides.png" />
+    <Content Include="ckeditor\skins\v2\images\dialog_sides_rtl.png" />
+    <Content Include="ckeditor\skins\v2\images\mini.gif" />
+    <Content Include="ckeditor\skins\v2\images\noimage.png" />
+    <Content Include="ckeditor\skins\v2\images\sprites.png" />
+    <Content Include="ckeditor\skins\v2\images\sprites_ie6.png" />
+    <Content Include="ckeditor\skins\v2\images\toolbar_start.gif" />
+    <Content Include="ckeditor\skins\v2\skin.js" />
+    <Content Include="ckeditor\skins\v2\templates.css" />
+    <Content Include="ckeditor\themes\default\theme.js" />
+    <Content Include="Contents\DateSelector\cal.gif" />
+    <Content Include="Contents\DateSelector\cal\cal.gif" />
+    <Content Include="Contents\DateSelector\cal\calendar.gif" />
+    <Content Include="Contents\DateSelector\cal\close.gif" />
+    <Content Include="Contents\DateSelector\cal\divider.gif" />
+    <Content Include="Contents\DateSelector\cal\drop1.gif" />
+    <Content Include="Contents\DateSelector\cal\drop2.gif" />
+    <Content Include="Contents\DateSelector\cal\left1.gif" />
+    <Content Include="Contents\DateSelector\cal\left2.gif" />
+    <Content Include="Contents\DateSelector\cal\mycalender.js" />
+    <Content Include="Contents\DateSelector\cal\popcalendar.css" />
+    <Content Include="Contents\DateSelector\cal\popcalendar.js" />
+    <Content Include="Contents\DateSelector\cal\right1.gif" />
+    <Content Include="Contents\DateSelector\cal\right2.gif" />
+    <Content Include="Contents\DateSelector\cal\up2.gif" />
+    <Content Include="Contents\DateSelector\DateSelector.ascx" />
+    <Content Include="Contents\Popup\OnPagePopup.js" />
+    <Content Include="Contents\Popup\defaultpopup.js" />
+    <Content Include="Contents\Popup\popup.css" />
+    <Content Include="List-Page.aspx" />
+    <Content Include="CommonMasters\ManageRegion.aspx" />
+    <Content Include="Contents\admin\css\all.min.css" />
+    <Content Include="Contents\admin\css\bootstrap.min.css" />
+    <Content Include="Contents\admin\css\chosen.min.css" />
+    <Content Include="Contents\admin\css\main.css" />
+    <Content Include="Contents\admin\css\nouislider.min.css" />
+    <Content Include="Contents\admin\css\style.css" />
+    <Content Include="Contents\admin\css\tabler-icons.min.css" />
+    <Content Include="Contents\admin\images\auth-sideimg.png" />
+    <Content Include="Contents\admin\images\car.png" />
+    <Content Include="Contents\admin\images\img-auth-bg.jpg" />
+    <Content Include="Contents\admin\images\img-dropbox-bg.svg" />
+    <Content Include="Contents\admin\images\login-bg.png" />
+    <Content Include="Contents\admin\images\logo.png" />
+    <Content Include="Contents\admin\images\pending.png" />
+    <Content Include="Contents\admin\images\range-rover.png" />
+    <Content Include="Contents\admin\images\seller.png" />
+    <Content Include="Contents\admin\images\uae.png" />
+    <Content Include="Contents\admin\js\admin.js" />
+    <Content Include="Contents\admin\js\apexcharts.min.js" />
+    <Content Include="Contents\admin\js\bootstrap.min.js" />
+    <Content Include="Contents\admin\js\chosen.jquery.min.js" />
+    <Content Include="Contents\admin\js\jquery.min.js" />
+    <Content Include="Contents\admin\js\nouislider.min.js" />
+    <Content Include="Contents\admin\js\stock-prices.js" />
+    <Content Include="Admin\Dashboard.aspx" />
+    <Content Include="logout.aspx" />
+    <Content Include="Seller\ChangePassword.aspx" />
+    <Content Include="Seller\Dashboard.aspx" />
+    <Content Include="Seller\MyProducts.aspx" />
+    <Content Include="Seller\MyProfile.aspx" />
+    <Content Include="Seller\Add-Products.aspx" />
+    <Content Include="Shared\adminheader.ascx" />
+    <Content Include="Shared\adminmenu.ascx" />
+    <Content Include="Contents\outer\css\admin.css" />
+    <Content Include="Contents\outer\css\animate.css" />
+    <Content Include="Contents\outer\css\bootstrap.min.css" />
+    <Content Include="Contents\outer\css\chosen.min.css" />
+    <Content Include="Contents\outer\css\jquery.fancybox.min.css" />
+    <Content Include="Contents\outer\css\menu.css" />
+    <Content Include="Contents\outer\css\nice-select.css" />
+    <Content Include="Contents\outer\css\owl.css" />
+    <Content Include="Contents\outer\css\slick-theme.css" />
+    <Content Include="Contents\outer\css\slick.css" />
+    <Content Include="Contents\outer\css\style.css" />
+    <Content Include="Contents\outer\css\tabler-icons.min.css" />
+    <Content Include="Global.asax" />
+    <Content Include="Contents\outer\images\audi-logo.png" />
+    <Content Include="Contents\outer\images\avator.png" />
+    <Content Include="Contents\outer\images\banner1.jpg" />
+    <Content Include="Contents\outer\images\banner2.jpg" />
+    <Content Include="Contents\outer\images\banner3.jpg" />
+    <Content Include="Contents\outer\images\banner4.jpg" />
+    <Content Include="Contents\outer\images\blog-1.jpg" />
+    <Content Include="Contents\outer\images\blog-2.jpg" />
+    <Content Include="Contents\outer\images\blog-3.jpg" />
+    <Content Include="Contents\outer\images\blog-4.jpg" />
+    <Content Include="Contents\outer\images\buy-car.png" />
+    <Content Include="Contents\outer\images\car-img1.jpg" />
+    <Content Include="Contents\outer\images\car-img2.jpg" />
+    <Content Include="Contents\outer\images\car-img3.jpg" />
+    <Content Include="Contents\outer\images\car-img4.jpg" />
+    <Content Include="Contents\outer\images\car-up.png" />
+    <Content Include="Contents\outer\images\car.png" />
+    <Content Include="Contents\outer\images\compare1.jpg" />
+    <Content Include="Contents\outer\images\compare2.jpg" />
+    <Content Include="Contents\outer\images\compare3.jpg" />
+    <Content Include="Contents\outer\images\compare4.jpg" />
+    <Content Include="Contents\outer\images\compare5.jpg" />
+    <Content Include="Contents\outer\images\compare6.jpg" />
+    <Content Include="Contents\outer\images\convertible.png" />
+    <Content Include="Contents\outer\images\coupe.png" />
+    <Content Include="Contents\outer\images\hatchback.png" />
+    <Content Include="Contents\outer\images\hybrid.png" />
+    <Content Include="Contents\outer\images\insep1-1.svg" />
+    <Content Include="Contents\outer\images\insep1-10.svg" />
+    <Content Include="Contents\outer\images\insep1-11.svg" />
+    <Content Include="Contents\outer\images\insep1-12.svg" />
+    <Content Include="Contents\outer\images\insep1-2.svg" />
+    <Content Include="Contents\outer\images\insep1-3.svg" />
+    <Content Include="Contents\outer\images\insep1-4.svg" />
+    <Content Include="Contents\outer\images\insep1-5.svg" />
+    <Content Include="Contents\outer\images\insep1-6.svg" />
+    <Content Include="Contents\outer\images\insep1-7.svg" />
+    <Content Include="Contents\outer\images\insep1-8.svg" />
+    <Content Include="Contents\outer\images\insep1-9.svg" />
+    <Content Include="Contents\outer\images\login-img.jpg" />
+    <Content Include="Contents\outer\images\logo.png" />
+    <Content Include="Contents\outer\images\mercedes-logo.png" />
+    <Content Include="Contents\outer\images\nissan-logo.png" />
+    <Content Include="Contents\outer\images\pending.png" />
+    <Content Include="Contents\outer\images\porsche-logo.png" />
+    <Content Include="Contents\outer\images\range-rover-logo.png" />
+    <Content Include="Contents\outer\images\scrach-img1.jpg" />
+    <Content Include="Contents\outer\images\scrach-img2.jpg" />
+    <Content Include="Contents\outer\images\scrach-img3.jpg" />
+    <Content Include="Contents\outer\images\sedan.png" />
+    <Content Include="Contents\outer\images\sell-car.png" />
+    <Content Include="Contents\outer\images\seller.png" />
+    <Content Include="Contents\outer\images\suv.png" />
+    <Content Include="Contents\outer\images\toyota-logo.png" />
+    <Content Include="Contents\outer\images\volkswagen-logo.png" />
+    <Content Include="Contents\outer\images\why-choose-car.png" />
+    <Content Include="Contents\outer\images\why-us.jpg" />
+    <Content Include="Index.aspx" />
+    <Content Include="Contents\outer\js\admin.js" />
+    <Content Include="Contents\outer\js\apexcharts.min.js" />
+    <Content Include="Contents\outer\js\appear.js" />
+    <Content Include="Contents\outer\js\bootstrap.min.js" />
+    <Content Include="Contents\outer\js\chosen.jquery.min.js" />
+    <Content Include="Contents\outer\js\jquery.fancybox.js" />
+    <Content Include="Contents\outer\js\jquery.js" />
+    <Content Include="Contents\outer\js\jquery.nice-select.min.js" />
+    <Content Include="Contents\outer\js\main.js" />
+    <Content Include="Contents\outer\js\menu.js" />
+    <Content Include="Contents\outer\js\popper.min.js" />
+    <Content Include="Contents\outer\js\price-ranger.js" />
+    <Content Include="Contents\outer\js\slick-animation.min.js" />
+    <Content Include="Contents\outer\js\slick.min.js" />
+    <Content Include="Contents\outer\js\stock-prices.js" />
+    <Content Include="Contents\outer\js\wow.js" />
+    <Content Include="Shared\SellerHeader.ascx" />
+    <Content Include="Shared\SellerMenu.ascx" />
+    <Content Include="Shared\userheader.ascx" />
+    <Content Include="Shared\usermenu.ascx" />
+    <Content Include="Single-Page-Details.aspx" />
+    <Content Include="Uploads\CarImages\CGKHK014L_f5b4f382e99a67c.jpeg" />
+    <Content Include="Uploads\CarImages\GHTY_78c7d190ef8513e.png" />
+    <Content Include="Uploads\CarImages\GHTY_8f79e1e33f667d8.jpg" />
+    <Content Include="Uploads\CarImages\JQRPY-25489K_1d5e4dba47bf4f1.jpg" />
+    <Content Include="Uploads\CarImages\JQRPY-25489K_5f18d527bcc7bbb.jpeg" />
+    <Content Include="Uploads\CarImages\JQRPY-25489K_6360a6795cc5745.jpg" />
+    <Content Include="Uploads\CarImages\JQRPY-25489K_77ed9fb060822fc.jpeg" />
+    <Content Include="Uploads\CarImages\JQRPY-25489K_9cae1a285940304.jpg" />
+    <Content Include="Uploads\CarImages\JQRPY-25489K_d4fef40ea6fe365.png" />
+    <Content Include="Uploads\CarImages\JQRPY-25489K_da6018a81db7fe6.png" />
+    <Content Include="Uploads\CarImages\JQRPY-25489K_dae65d359d8f62b.jpg" />
+    <Content Include="Uploads\CarImages\JQRPY-25489K_e6e52e8b26479ab.jpg" />
+    <Content Include="Uploads\CarImages\JQRPY-25489K_fd63a66e2b45aca.png" />
+    <Content Include="Uploads\CarImages\NHP10-2462893_12f243e0d49506b.png" />
+    <Content Include="Uploads\CarImages\NHP10-2462893_130b20e973a649e.png" />
+    <Content Include="Uploads\CarImages\NHP10-2462893_283b64e6c9d996f.jpg" />
+    <Content Include="Uploads\CarImages\NHP10-2462893_292e1a19c761592.jpg" />
+    <Content Include="Uploads\CarImages\NHP10-2462893_2cc5037b8c46821.jpg" />
+    <Content Include="Uploads\CarImages\NHP10-2462893_39edcc728f6ac96.png" />
+    <Content Include="Uploads\CarImages\NHP10-2462893_5c6bcdb93953004.png" />
+    <Content Include="Uploads\CarImages\NHP10-2462893_c1aae95bc6a1ec8.jpg" />
+    <Content Include="Uploads\CarImages\NHP10-2462893_c849004558a0492.jpg" />
+    <Content Include="Uploads\CarImages\NHP10-6402842_d3480959abab535.jpg" />
+    <Content Include="Uploads\CarImages\NZE164-586478_26e74287a434d55.jpg" />
+    <Content Include="Uploads\CarImages\NZE164-586478_486d6cf009cd867.png" />
+    <Content Include="Uploads\CarImages\NZE164-586478_97fc46d8df1de8e.jpg" />
+    <Content Include="Uploads\CarImages\NZE164-586478_e44481c6f37e33e.png" />
+    <Content Include="Uploads\CarImages\NZE164-7090543_19ab39ad3b5660c.jpg" />
+    <Content Include="Uploads\CarImages\NZE164-7090543_4cab7e4607f2a82.jpg" />
+    <Content Include="Uploads\CarImages\NZE164-7090543_541cbf0353ba536.jpg" />
+    <Content Include="Uploads\CarImages\TVP-5421T_45463d90af31f68.jpg" />
+    <Content Include="Uploads\CarImages\TVP-5421T_5a5bb25fed79749.jpg" />
+    <Content Include="Uploads\CarImages\TVP-5421T_bf95e84c36b8783.png" />
+    <Content Include="Uploads\CarImages\TVP-5421T_c7cdc637df4db9b.png" />
+    <Content Include="Uploads\CarImages\TVP-5421T_cab7842c54bc0dd.png" />
+    <Content Include="Uploads\CarImages\ZGE25-6010271_ae9ca366eafdfdf.jpeg" />
+    <Content Include="Uploads\CarImages\ZWE211-1019549_e5138ef924a35b1.jpg" />
+    <Content Include="Uploads\CarImages\_09178c136a488a1.png" />
+    <Content Include="Uploads\CarImages\_40af1f01fb6c5b6.png" />
+    <Content Include="Uploads\CarImages\_d217fa676b09ac0.jpg" />
+    <Content Include="Uploads\CarImages\_e3667cbc59938b9.png" />
+    <Content Include="Uploads\DealerDocument\File_4e587c877fdef83.jpg" />
+    <Content Include="Uploads\DealerDocument\File_4e587c877fdef83.png" />
+    <Content Include="Uploads\FuzokuhinIcon\Fuzokuhin_1e0193130ea190d.jpg" />
+    <Content Include="Uploads\FuzokuhinIcon\Fuzokuhin_25e8b880e0f0b00.jpg" />
+    <Content Include="Uploads\FuzokuhinIcon\Fuzokuhin_2abf62636ce9738.jpg" />
+    <Content Include="Uploads\FuzokuhinIcon\Fuzokuhin_3c44c20586dcd97.png" />
+    <Content Include="Uploads\FuzokuhinIcon\Fuzokuhin_4ae204120bdc218.png" />
+    <Content Include="Uploads\FuzokuhinIcon\Fuzokuhin_5cc23748297e556.png" />
+    <Content Include="Uploads\FuzokuhinIcon\Fuzokuhin_644cd4d585fa480.jpg" />
+    <Content Include="Uploads\FuzokuhinIcon\Fuzokuhin_7dd64485aaeae56.jpg" />
+    <Content Include="Uploads\FuzokuhinIcon\Fuzokuhin_829e0f4ae7439a6.png" />
+    <Content Include="Uploads\FuzokuhinIcon\Fuzokuhin_b43c5ca2465800c.jpeg" />
+    <Content Include="Uploads\FuzokuhinIcon\Fuzokuhin_d26d0dc5bf1dad2.png" />
+    <Content Include="Uploads\Icons\Icon_0f9e67aca992d0a.png" />
+    <Content Include="Uploads\Icons\Icon_236806ec3399625.png" />
+    <Content Include="Uploads\Icons\Icon_35cd4e88229db5d.png" />
+    <Content Include="Uploads\Icons\Icon_4bfb1feba967f59.jpg" />
+    <Content Include="Uploads\Icons\Icon_51e9bef619d2840.jpg" />
+    <Content Include="Uploads\Icons\Icon_8573ab5cc1e2653.png" />
+    <Content Include="Uploads\Icons\Icon_a5862cecb0e4e93.png" />
+    <Content Include="Uploads\Icons\Icon_c6d53a7de6ece40.png" />
+    <Content Include="Uploads\Icons\Icon_d88a085afac1395.png" />
+    <Content Include="Uploads\Icons\Icon_e270dde3d2614cc.png" />
+    <Content Include="Uploads\Icons\Icon_e5143bd1d13fa6e.jpg" />
+    <Content Include="Uploads\Icons\Icon_ed24b906204e282.png" />
+    <Content Include="Uploads\Images\Image_4c3d376c57af0da.jpg" />
+    <Content Include="Uploads\Images\Image_d940086174e5963.png" />
+    <Content Include="Uploads\SellerDocument\Photo_010b4f32a90f44a.jpg" />
+    <Content Include="Uploads\SellerDocument\Photo_02f5ca233264202.jpg" />
+    <Content Include="Uploads\SellerDocument\Photo_052821c4df86e9e.jpg" />
+    <Content Include="Uploads\SellerDocument\Photo_7c50a8e12a2a6b7.jpeg" />
+    <Content Include="Uploads\SellerDocument\Photo_871d28bfd474da9.png" />
+    <Content Include="Uploads\SellerDocument\Photo_b5cc48407967d47.png" />
+    <Content Include="Users\ChangePassword.aspx" />
+    <Content Include="Users\Dashboard.aspx" />
+    <Content Include="Users\MyProfile.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="WebServices\jquerydata.asmx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\Activation-Rpt.aspx.cs">
+      <DependentUpon>Activation-Rpt.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Activation-Rpt.aspx.designer.cs">
+      <DependentUpon>Activation-Rpt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Add-Blog.aspx.cs">
+      <DependentUpon>Add-Blog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Add-Blog.aspx.designer.cs">
+      <DependentUpon>Add-Blog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Add-Client-Broker.aspx.cs">
+      <DependentUpon>Add-Client-Broker.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Add-Client-Broker.aspx.designer.cs">
+      <DependentUpon>Add-Client-Broker.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Add-Faq.aspx.cs">
+      <DependentUpon>Add-Faq.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Add-Faq.aspx.designer.cs">
+      <DependentUpon>Add-Faq.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Add-Purchase.aspx.cs">
+      <DependentUpon>Add-Purchase.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Add-Purchase.aspx.designer.cs">
+      <DependentUpon>Add-Purchase.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Add-Push-Price.aspx.cs">
+      <DependentUpon>Add-Push-Price.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Add-Push-Price.aspx.designer.cs">
+      <DependentUpon>Add-Push-Price.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AddBankDetails.aspx.cs">
+      <DependentUpon>AddBankDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\AddBankDetails.aspx.designer.cs">
+      <DependentUpon>AddBankDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AddClient.aspx.cs">
+      <DependentUpon>AddClient.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\AddClient.aspx.designer.cs">
+      <DependentUpon>AddClient.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Auction-Car.aspx.cs">
+      <DependentUpon>Auction-Car.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Auction-Car.aspx.designer.cs">
+      <DependentUpon>Auction-Car.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Auction-Report.aspx.cs">
+      <DependentUpon>Auction-Report.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Auction-Report.aspx.designer.cs">
+      <DependentUpon>Auction-Report.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Bill-No-History.aspx.cs">
+      <DependentUpon>Bill-No-History.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Bill-No-History.aspx.designer.cs">
+      <DependentUpon>Bill-No-History.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Blog-Preview.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>Blog-Preview.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Blog-Preview.aspx.designer.cs">
+      <DependentUpon>Blog-Preview.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Client-Report.aspx.cs">
+      <DependentUpon>Client-Report.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Client-Report.aspx.designer.cs">
+      <DependentUpon>Client-Report.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Daily-Report.aspx.cs">
+      <DependentUpon>Daily-Report.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Daily-Report.aspx.designer.cs">
+      <DependentUpon>Daily-Report.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Document-All-Reports.aspx.cs">
+      <DependentUpon>Document-All-Reports.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Document-All-Reports.aspx.designer.cs">
+      <DependentUpon>Document-All-Reports.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Document-Another-Status.aspx.cs">
+      <DependentUpon>Document-Another-Status.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Document-Another-Status.aspx.designer.cs">
+      <DependentUpon>Document-Another-Status.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Document-Auction-Kanri.aspx.cs">
+      <DependentUpon>Document-Auction-Kanri.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Document-Auction-Kanri.aspx.designer.cs">
+      <DependentUpon>Document-Auction-Kanri.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Document-Confirmation.aspx.cs">
+      <DependentUpon>Document-Confirmation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Document-Confirmation.aspx.designer.cs">
+      <DependentUpon>Document-Confirmation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Document-Rikuji-Reports.aspx.cs">
+      <DependentUpon>Document-Rikuji-Reports.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Document-Rikuji-Reports.aspx.designer.cs">
+      <DependentUpon>Document-Rikuji-Reports.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Document-Send-Date.aspx.cs">
+      <DependentUpon>Document-Send-Date.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Document-Send-Date.aspx.designer.cs">
+      <DependentUpon>Document-Send-Date.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Download-Shipping-Details.aspx.cs">
+      <DependentUpon>Download-Shipping-Details.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Download-Shipping-Details.aspx.designer.cs">
+      <DependentUpon>Download-Shipping-Details.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Full-Report.aspx.cs">
+      <DependentUpon>Full-Report.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Full-Report.aspx.designer.cs">
+      <DependentUpon>Full-Report.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Fuzokuhin.aspx.cs">
+      <DependentUpon>Fuzokuhin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Fuzokuhin.aspx.designer.cs">
+      <DependentUpon>Fuzokuhin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\GenerateInvoice.aspx.cs">
+      <DependentUpon>GenerateInvoice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\GenerateInvoice.aspx.designer.cs">
+      <DependentUpon>GenerateInvoice.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Inspection-Update.aspx.cs">
+      <DependentUpon>Inspection-Update.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Inspection-Update.aspx.designer.cs">
+      <DependentUpon>Inspection-Update.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Isogi-Reports.aspx.cs">
+      <DependentUpon>Isogi-Reports.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Isogi-Reports.aspx.designer.cs">
+      <DependentUpon>Isogi-Reports.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Manage-Invoices.aspx.cs">
+      <DependentUpon>Manage-Invoices.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Manage-Invoices.aspx.designer.cs">
+      <DependentUpon>Manage-Invoices.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Notify-Party-and-Cfs.aspx.cs">
+      <DependentUpon>Notify-Party-and-Cfs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Notify-Party-and-Cfs.aspx.designer.cs">
+      <DependentUpon>Notify-Party-and-Cfs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Port-History.aspx.cs">
+      <DependentUpon>Port-History.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Port-History.aspx.designer.cs">
+      <DependentUpon>Port-History.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Print-Client-Voucher.aspx.cs">
+      <DependentUpon>Print-Client-Voucher.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Print-Client-Voucher.aspx.designer.cs">
+      <DependentUpon>Print-Client-Voucher.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Print-Invoice.aspx.cs">
+      <DependentUpon>Print-Invoice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Print-Invoice.aspx.designer.cs">
+      <DependentUpon>Print-Invoice.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Product-Checking.aspx.cs">
+      <DependentUpon>Product-Checking.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Product-Checking.aspx.designer.cs">
+      <DependentUpon>Product-Checking.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Purchase-Report.aspx.cs">
+      <DependentUpon>Purchase-Report.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Purchase-Report.aspx.designer.cs">
+      <DependentUpon>Purchase-Report.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Ship-Confirmation-Report.aspx.cs">
+      <DependentUpon>Ship-Confirmation-Report.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Ship-Confirmation-Report.aspx.designer.cs">
+      <DependentUpon>Ship-Confirmation-Report.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Ship-Departure.aspx.cs">
+      <DependentUpon>Ship-Departure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Ship-Departure.aspx.designer.cs">
+      <DependentUpon>Ship-Departure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Shipped-Cars.aspx.cs">
+      <DependentUpon>Shipped-Cars.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Shipped-Cars.aspx.designer.cs">
+      <DependentUpon>Shipped-Cars.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Shipping-History.aspx.cs">
+      <DependentUpon>Shipping-History.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Shipping-History.aspx.designer.cs">
+      <DependentUpon>Shipping-History.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Transport-Bill.aspx.cs">
+      <DependentUpon>Transport-Bill.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Transport-Bill.aspx.designer.cs">
+      <DependentUpon>Transport-Bill.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Transport-City-Relation.aspx.cs">
+      <DependentUpon>Transport-City-Relation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Transport-City-Relation.aspx.designer.cs">
+      <DependentUpon>Transport-City-Relation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Transport-Details.aspx.cs">
+      <DependentUpon>Transport-Details.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Transport-Details.aspx.designer.cs">
+      <DependentUpon>Transport-Details.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Transport-History.aspx.cs">
+      <DependentUpon>Transport-History.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Transport-History.aspx.designer.cs">
+      <DependentUpon>Transport-History.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Transport-Info.aspx.cs">
+      <DependentUpon>Transport-Info.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Transport-Info.aspx.designer.cs">
+      <DependentUpon>Transport-Info.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Transport-Price.aspx.cs">
+      <DependentUpon>Transport-Price.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Transport-Price.aspx.designer.cs">
+      <DependentUpon>Transport-Price.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Transport-Status.aspx.cs">
+      <DependentUpon>Transport-Status.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Transport-Status.aspx.designer.cs">
+      <DependentUpon>Transport-Status.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Unsold-Ship-Car.aspx.cs">
+      <DependentUpon>Unsold-Ship-Car.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Unsold-Ship-Car.aspx.designer.cs">
+      <DependentUpon>Unsold-Ship-Car.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Update-Another-Status.aspx.cs">
+      <DependentUpon>Update-Another-Status.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Update-Another-Status.aspx.designer.cs">
+      <DependentUpon>Update-Another-Status.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Update-BillNo.aspx.cs">
+      <DependentUpon>Update-BillNo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Update-BillNo.aspx.designer.cs">
+      <DependentUpon>Update-BillNo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Update-Broker-New.aspx.cs">
+      <DependentUpon>Update-Broker-New.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Update-Broker-New.aspx.designer.cs">
+      <DependentUpon>Update-Broker-New.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Update-Broker.aspx.cs">
+      <DependentUpon>Update-Broker.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Update-Broker.aspx.designer.cs">
+      <DependentUpon>Update-Broker.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Update-Doc-Receive-Date.aspx.cs">
+      <DependentUpon>Update-Doc-Receive-Date.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Update-Doc-Receive-Date.aspx.designer.cs">
+      <DependentUpon>Update-Doc-Receive-Date.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Update-Fuzokuhin.aspx.cs">
+      <DependentUpon>Update-Fuzokuhin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Update-Fuzokuhin.aspx.designer.cs">
+      <DependentUpon>Update-Fuzokuhin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Update-Inner.aspx.cs">
+      <DependentUpon>Update-Inner.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Update-Inner.aspx.designer.cs">
+      <DependentUpon>Update-Inner.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Update-Loading-Surrender.aspx.cs">
+      <DependentUpon>Update-Loading-Surrender.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Update-Loading-Surrender.aspx.designer.cs">
+      <DependentUpon>Update-Loading-Surrender.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Update-Logistics.aspx.cs">
+      <DependentUpon>Update-Logistics.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Update-Logistics.aspx.designer.cs">
+      <DependentUpon>Update-Logistics.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Update-Product-date.aspx.cs">
+      <DependentUpon>Update-Product-date.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Update-Product-date.aspx.designer.cs">
+      <DependentUpon>Update-Product-date.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Update-Remark.aspx.cs">
+      <DependentUpon>Update-Remark.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Update-Remark.aspx.designer.cs">
+      <DependentUpon>Update-Remark.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Update-Shipping-Details.aspx.cs">
+      <DependentUpon>Update-Shipping-Details.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Update-Shipping-Details.aspx.designer.cs">
+      <DependentUpon>Update-Shipping-Details.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Update-Transport.aspx.cs">
+      <DependentUpon>Update-Transport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Update-Transport.aspx.designer.cs">
+      <DependentUpon>Update-Transport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Update-Variant.aspx.cs">
+      <DependentUpon>Update-Variant.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Update-Variant.aspx.designer.cs">
+      <DependentUpon>Update-Variant.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Updatee-Shipping.aspx.cs">
+      <DependentUpon>Updatee-Shipping.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Updatee-Shipping.aspx.designer.cs">
+      <DependentUpon>Updatee-Shipping.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UploadDocument.aspx.cs">
+      <DependentUpon>UploadDocument.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\UploadDocument.aspx.designer.cs">
+      <DependentUpon>UploadDocument.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\View-Auction-Car.aspx.cs">
+      <DependentUpon>View-Auction-Car.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\View-Auction-Car.aspx.designer.cs">
+      <DependentUpon>View-Auction-Car.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\View-Blog-Topic.aspx.cs">
+      <DependentUpon>View-Blog-Topic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\View-Blog-Topic.aspx.designer.cs">
+      <DependentUpon>View-Blog-Topic.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\View-Blogs.aspx.cs">
+      <DependentUpon>View-Blogs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\View-Blogs.aspx.designer.cs">
+      <DependentUpon>View-Blogs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\YardIn.aspx.cs">
+      <DependentUpon>YardIn.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\YardIn.aspx.designer.cs">
+      <DependentUpon>YardIn.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Yearly-Report.aspx.cs">
+      <DependentUpon>Yearly-Report.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Yearly-Report.aspx.designer.cs">
+      <DependentUpon>Yearly-Report.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\AddCarStatus.aspx.cs">
+      <DependentUpon>AddCarStatus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\AddCarStatus.aspx.designer.cs">
+      <DependentUpon>AddCarStatus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\AuctionToPortDays.aspx.cs">
+      <DependentUpon>AuctionToPortDays.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\AuctionToPortDays.aspx.designer.cs">
+      <DependentUpon>AuctionToPortDays.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Group-Master.aspx.cs">
+      <DependentUpon>Group-Master.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Group-Master.aspx.designer.cs">
+      <DependentUpon>Group-Master.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Ledger-Head.aspx.cs">
+      <DependentUpon>Ledger-Head.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Ledger-Head.aspx.designer.cs">
+      <DependentUpon>Ledger-Head.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Make-Invoice.aspx.cs">
+      <DependentUpon>Make-Invoice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Make-Invoice.aspx.designer.cs">
+      <DependentUpon>Make-Invoice.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\Add-FOB.aspx.cs">
+      <DependentUpon>Add-FOB.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\Add-FOB.aspx.designer.cs">
+      <DependentUpon>Add-FOB.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\Add-Ship.aspx.cs">
+      <DependentUpon>Add-Ship.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\Add-Ship.aspx.designer.cs">
+      <DependentUpon>Add-Ship.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Add-User.aspx.cs">
+      <DependentUpon>Add-User.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Add-User.aspx.designer.cs">
+      <DependentUpon>Add-User.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Add-Variant.aspx.cs">
+      <DependentUpon>Add-Variant.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Add-Variant.aspx.designer.cs">
+      <DependentUpon>Add-Variant.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Add-Video.aspx.cs">
+      <DependentUpon>Add-Video.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Add-Video.aspx.designer.cs">
+      <DependentUpon>Add-Video.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManageBanks.aspx.cs">
+      <DependentUpon>ManageBanks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManageBanks.aspx.designer.cs">
+      <DependentUpon>ManageBanks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AddCurrency.aspx.cs">
+      <DependentUpon>AddCurrency.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\AddCurrency.aspx.designer.cs">
+      <DependentUpon>AddCurrency.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Additional-Info.aspx.cs">
+      <DependentUpon>Additional-Info.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Additional-Info.aspx.designer.cs">
+      <DependentUpon>Additional-Info.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Broker-Address.aspx.cs">
+      <DependentUpon>Broker-Address.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Broker-Address.aspx.designer.cs">
+      <DependentUpon>Broker-Address.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Broker-Master.aspx.cs">
+      <DependentUpon>Broker-Master.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Broker-Master.aspx.designer.cs">
+      <DependentUpon>Broker-Master.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\ChangePassword.aspx.designer.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\CurrencyMaster.aspx.cs">
+      <DependentUpon>CurrencyMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\CurrencyMaster.aspx.designer.cs">
+      <DependentUpon>CurrencyMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Dashboard.aspx.cs">
+      <DependentUpon>Dashboard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Dashboard.aspx.designer.cs">
+      <DependentUpon>Dashboard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\DealerRegistration.aspx.cs">
+      <DependentUpon>DealerRegistration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\DealerRegistration.aspx.designer.cs">
+      <DependentUpon>DealerRegistration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Manage-Products.aspx.cs">
+      <DependentUpon>Manage-Products.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Manage-Products.aspx.designer.cs">
+      <DependentUpon>Manage-Products.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Manage-Purchase.aspx.cs">
+      <DependentUpon>Manage-Purchase.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Manage-Purchase.aspx.designer.cs">
+      <DependentUpon>Manage-Purchase.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Manage-User.aspx.cs">
+      <DependentUpon>Manage-User.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Manage-User.aspx.designer.cs">
+      <DependentUpon>Manage-User.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Manage-Variant.aspx.cs">
+      <DependentUpon>Manage-Variant.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Manage-Variant.aspx.designer.cs">
+      <DependentUpon>Manage-Variant.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Manage-Client.aspx.cs">
+      <DependentUpon>Manage-Client.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Manage-Client.aspx.designer.cs">
+      <DependentUpon>Manage-Client.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\PendingRequests.aspx.cs">
+      <DependentUpon>PendingRequests.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\PendingRequests.aspx.designer.cs">
+      <DependentUpon>PendingRequests.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\Add-Shipping-Price.aspx.cs">
+      <DependentUpon>Add-Shipping-Price.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\Add-Shipping-Price.aspx.designer.cs">
+      <DependentUpon>Add-Shipping-Price.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\CarImages.ashx.cs">
+      <DependentUpon>CarImages.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Update-Push-Price.aspx.cs">
+      <DependentUpon>Update-Push-Price.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Update-Push-Price.aspx.designer.cs">
+      <DependentUpon>Update-Push-Price.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\View-Author.aspx.cs">
+      <DependentUpon>View-Author.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\View-Author.aspx.designer.cs">
+      <DependentUpon>View-Author.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Manage-Dealers.aspx.cs">
+      <DependentUpon>Manage-Dealers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Manage-Dealers.aspx.designer.cs">
+      <DependentUpon>Manage-Dealers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\View-Faq.aspx.cs">
+      <DependentUpon>View-Faq.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\View-Faq.aspx.designer.cs">
+      <DependentUpon>View-Faq.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\AuctionYardMaster.aspx.cs">
+      <DependentUpon>AuctionYardMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\AuctionYardMaster.aspx.designer.cs">
+      <DependentUpon>AuctionYardMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManageShippingPrice.aspx.cs">
+      <DependentUpon>ManageShippingPrice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManageShippingPrice.aspx.designer.cs">
+      <DependentUpon>ManageShippingPrice.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManageShipDetails.aspx.cs">
+      <DependentUpon>ManageShipDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManageShipDetails.aspx.designer.cs">
+      <DependentUpon>ManageShipDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Captcha.aspx.cs">
+      <DependentUpon>Captcha.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Captcha.aspx.designer.cs">
+      <DependentUpon>Captcha.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManageFOBPrice.aspx.cs">
+      <DependentUpon>ManageFOBPrice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManageFOBPrice.aspx.designer.cs">
+      <DependentUpon>ManageFOBPrice.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\AddAuction.aspx.cs">
+      <DependentUpon>AddAuction.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\AddAuction.aspx.designer.cs">
+      <DependentUpon>AddAuction.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\AddAuctionYard.aspx.cs">
+      <DependentUpon>AddAuctionYard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\AddAuctionYard.aspx.designer.cs">
+      <DependentUpon>AddAuctionYard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\AddBill.aspx.cs">
+      <DependentUpon>AddBill.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\AddBill.aspx.designer.cs">
+      <DependentUpon>AddBill.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\AddBodyType.aspx.cs">
+      <DependentUpon>AddBodyType.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\AddBodyType.aspx.designer.cs">
+      <DependentUpon>AddBodyType.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\AddConsignee.aspx.cs">
+      <DependentUpon>AddConsignee.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\AddConsignee.aspx.designer.cs">
+      <DependentUpon>AddConsignee.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\AddLocation.aspx.cs">
+      <DependentUpon>AddLocation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\AddLocation.aspx.designer.cs">
+      <DependentUpon>AddLocation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\AddMaker.aspx.cs">
+      <DependentUpon>AddMaker.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\AddMaker.aspx.designer.cs">
+      <DependentUpon>AddMaker.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\AddPortPrice.aspx.cs">
+      <DependentUpon>AddPortPrice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\AddPortPrice.aspx.designer.cs">
+      <DependentUpon>AddPortPrice.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\AddShippingCompany.aspx.cs">
+      <DependentUpon>AddShippingCompany.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\AddShippingCompany.aspx.designer.cs">
+      <DependentUpon>AddShippingCompany.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\AddTerminal.aspx.cs">
+      <DependentUpon>AddTerminal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\AddTerminal.aspx.designer.cs">
+      <DependentUpon>AddTerminal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\AddTransport.aspx.cs">
+      <DependentUpon>AddTransport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\AddTransport.aspx.designer.cs">
+      <DependentUpon>AddTransport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\AssignMenu.aspx.cs">
+      <DependentUpon>AssignMenu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\AssignMenu.aspx.designer.cs">
+      <DependentUpon>AssignMenu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\OtherChargesType.aspx.cs">
+      <DependentUpon>OtherChargesType.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\OtherChargesType.aspx.designer.cs">
+      <DependentUpon>OtherChargesType.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\AuctionBuyingType.aspx.cs">
+      <DependentUpon>AuctionBuyingType.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\AuctionBuyingType.aspx.designer.cs">
+      <DependentUpon>AuctionBuyingType.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManageAuction.aspx.cs">
+      <DependentUpon>ManageAuction.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManageAuction.aspx.designer.cs">
+      <DependentUpon>ManageAuction.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManageAuctionYard.aspx.cs">
+      <DependentUpon>ManageAuctionYard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManageAuctionYard.aspx.designer.cs">
+      <DependentUpon>ManageAuctionYard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\BillMaster.aspx.cs">
+      <DependentUpon>BillMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\BillMaster.aspx.designer.cs">
+      <DependentUpon>BillMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManageBodyType.aspx.cs">
+      <DependentUpon>ManageBodyType.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManageBodyType.aspx.designer.cs">
+      <DependentUpon>ManageBodyType.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManageConsignee.aspx.cs">
+      <DependentUpon>ManageConsignee.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManageConsignee.aspx.designer.cs">
+      <DependentUpon>ManageConsignee.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManageCountry.aspx.cs">
+      <DependentUpon>ManageCountry.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManageCountry.aspx.designer.cs">
+      <DependentUpon>ManageCountry.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManageDepartment.aspx.cs">
+      <DependentUpon>ManageDepartment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManageDepartment.aspx.designer.cs">
+      <DependentUpon>ManageDepartment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManageLocation.aspx.cs">
+      <DependentUpon>ManageLocation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManageLocation.aspx.designer.cs">
+      <DependentUpon>ManageLocation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManageMaker.aspx.cs">
+      <DependentUpon>ManageMaker.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManageMaker.aspx.designer.cs">
+      <DependentUpon>ManageMaker.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManageFeatures.aspx.cs">
+      <DependentUpon>ManageFeatures.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManageFeatures.aspx.designer.cs">
+      <DependentUpon>ManageFeatures.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManageMenu.aspx.cs">
+      <DependentUpon>ManageMenu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManageMenu.aspx.designer.cs">
+      <DependentUpon>ManageMenu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManagePort.aspx.cs">
+      <DependentUpon>ManagePort.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManagePort.aspx.designer.cs">
+      <DependentUpon>ManagePort.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManagePortPrice.aspx.cs">
+      <DependentUpon>ManagePortPrice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManagePortPrice.aspx.designer.cs">
+      <DependentUpon>ManagePortPrice.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManageShippingCompany.aspx.cs">
+      <DependentUpon>ManageShippingCompany.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManageShippingCompany.aspx.designer.cs">
+      <DependentUpon>ManageShippingCompany.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManageTerminal.aspx.cs">
+      <DependentUpon>ManageTerminal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManageTerminal.aspx.designer.cs">
+      <DependentUpon>ManageTerminal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManageTransport.aspx.cs">
+      <DependentUpon>ManageTransport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManageTransport.aspx.designer.cs">
+      <DependentUpon>ManageTransport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\UpdateMetaData.aspx.cs">
+      <DependentUpon>UpdateMetaData.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\UpdateMetaData.aspx.designer.cs">
+      <DependentUpon>UpdateMetaData.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManageCategory.aspx.cs">
+      <DependentUpon>ManageCategory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManageCategory.aspx.designer.cs">
+      <DependentUpon>ManageCategory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contents\DateSelector\DateSelector.ascx.cs">
+      <DependentUpon>DateSelector.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contents\DateSelector\DateSelector.ascx.designer.cs">
+      <DependentUpon>DateSelector.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Seller\ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Seller\ChangePassword.aspx.designer.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Seller\Dashboard.aspx.cs">
+      <DependentUpon>Dashboard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Seller\Dashboard.aspx.designer.cs">
+      <DependentUpon>Dashboard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Seller\MyProducts.aspx.cs">
+      <DependentUpon>MyProducts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Seller\MyProducts.aspx.designer.cs">
+      <DependentUpon>MyProducts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Seller\MyProfile.aspx.cs">
+      <DependentUpon>MyProfile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Seller\MyProfile.aspx.designer.cs">
+      <DependentUpon>MyProfile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Seller\Add-Products.aspx.cs">
+      <DependentUpon>Add-Products.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Seller\Add-Products.aspx.designer.cs">
+      <DependentUpon>Add-Products.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\Popup.Master.cs">
+      <DependentUpon>Popup.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Shared\Popup.Master.designer.cs">
+      <DependentUpon>Popup.Master</DependentUpon>
+    </Compile>
+    <Compile Include="List-Page.aspx.cs">
+      <DependentUpon>List-Page.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="List-Page.aspx.designer.cs">
+      <DependentUpon>List-Page.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonMasters\ManageRegion.aspx.cs">
+      <DependentUpon>ManageRegion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommonMasters\ManageRegion.aspx.designer.cs">
+      <DependentUpon>ManageRegion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="logout.aspx.cs">
+      <DependentUpon>logout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="logout.aspx.designer.cs">
+      <DependentUpon>logout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\adminheader.ascx.cs">
+      <DependentUpon>adminheader.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Shared\adminheader.ascx.designer.cs">
+      <DependentUpon>adminheader.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\Main.Master.cs">
+      <DependentUpon>Main.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Shared\Main.Master.designer.cs">
+      <DependentUpon>Main.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\adminmenu.ascx.cs">
+      <DependentUpon>adminmenu.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Shared\adminmenu.ascx.designer.cs">
+      <DependentUpon>adminmenu.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shared\Seller.Master.cs">
+      <DependentUpon>Seller.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Shared\Seller.Master.designer.cs">
+      <DependentUpon>Seller.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\SellerHeader.ascx.cs">
+      <DependentUpon>SellerHeader.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Shared\SellerHeader.ascx.designer.cs">
+      <DependentUpon>SellerHeader.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\SellerMenu.ascx.cs">
+      <DependentUpon>SellerMenu.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Shared\SellerMenu.ascx.designer.cs">
+      <DependentUpon>SellerMenu.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\User.Master.cs">
+      <DependentUpon>User.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Shared\User.Master.designer.cs">
+      <DependentUpon>User.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\userheader.ascx.cs">
+      <DependentUpon>userheader.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Shared\userheader.ascx.designer.cs">
+      <DependentUpon>userheader.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\usermenu.ascx.cs">
+      <DependentUpon>usermenu.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Shared\usermenu.ascx.designer.cs">
+      <DependentUpon>usermenu.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Single-Page-Details.aspx.cs">
+      <DependentUpon>Single-Page-Details.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Single-Page-Details.aspx.designer.cs">
+      <DependentUpon>Single-Page-Details.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Users\ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Users\ChangePassword.aspx.designer.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Dashboard.aspx.cs">
+      <DependentUpon>Dashboard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Users\Dashboard.aspx.designer.cs">
+      <DependentUpon>Dashboard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Users\MyProfile.aspx.cs">
+      <DependentUpon>MyProfile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Users\MyProfile.aspx.designer.cs">
+      <DependentUpon>MyProfile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebServices\jquerydata.asmx.cs">
+      <DependentUpon>jquerydata.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Contents\outer\fonts\tabler-icons.ttf" />
+    <Content Include="Contents\outer\fonts\tabler-icons.woff" />
+    <Content Include="Contents\outer\fonts\tabler-icons.woff2" />
+    <Content Include="Contents\outer\images\dealer.webp" />
+    <Content Include="Contents\admin\fonts\tabler-icons.ttf" />
+    <Content Include="Contents\admin\fonts\tabler-icons.woff" />
+    <Content Include="Contents\admin\fonts\tabler-icons.woff2" />
+    <Content Include="Shared\Main.Master" />
+    <Content Include="Contents\admin\images\avatar.webp" />
+    <Content Include="Shared\Popup.Master" />
+    <Content Include="ckeditor\.htaccess" />
+    <Content Include="Admin\CarImages.ashx" />
+    <None Include="packages.config" />
+    <Content Include="Shared\User.Master" />
+    <Content Include="Shared\Seller.Master" />
+    <Content Include="Uploads\CarImages\NZE164-586478_48606c5e6e4e6fe.pdf" />
+    <Content Include="Uploads\CarImages\NZE164-7090543_aae1a357e375bcd.pdf" />
+    <Content Include="Uploads\CarImages\NZE164-7090543_e97a96b63abe7e0.pdf" />
+    <Content Include="Uploads\CarImages\TVP-5421T_3d8dc90e915dac2.pdf" />
+    <Content Include="Uploads\CarImages\_3a6f8e37ad4c1c5.pdf" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\COMMON\COMMON.csproj">
+      <Project>{2cdf392e-f8e9-4bbd-916a-2e57ee2cae6d}</Project>
+      <Name>COMMON</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{547083db-22e4-4c89-8b24-81858c8fbea0}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ENTITY\ENTITY.csproj">
+      <Project>{7f2bc455-c57f-4ff4-891c-0b995fea04b5}</Project>
+      <Name>ENTITY</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets')" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>60887</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:60887/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.AspNetCore.Components.Analyzers.3.1.0\build\netstandard2.0\Microsoft.AspNetCore.Components.Analyzers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.AspNetCore.Components.Analyzers.3.1.0\build\netstandard2.0\Microsoft.AspNetCore.Components.Analyzers.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

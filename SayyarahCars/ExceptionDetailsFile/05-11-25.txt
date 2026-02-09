@@ -1,0 +1,133 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/11/2025 09:50:50
+
+Error Line No: at SayyarahCars.Admin.Ship_Confirmation_Report.CreateExcelFile(DataTable Excel) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Ship-Confirmation-Report.aspx.cs:line 287
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Ship-Confirmation-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/11/2025 14:29:55
+
+Error Line No: at SayyarahCars.Admin.YardIn.GetAllYardInData()
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'ID'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/YardIn
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/11/2025 14:30:23
+
+Error Line No: at SayyarahCars.Admin.YardIn.GetAllYardInData()
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'ID'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/YardIn
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/11/2025 14:34:22
+
+Error Line No: at SayyarahCars.Admin.YardIn.GetAllYardInData()
+
+Error Message: There is no row at position 1.
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location: System.Data.RBTree`1
+
+Error Page Url: http://localhost:60887/Admin/YardIn
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/11/2025 14:35:15
+
+Error Line No: at SayyarahCars.Admin.YardIn.GetAllYardInData()
+
+Error Message: There is no row at position 1.
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location: System.Data.RBTree`1
+
+Error Page Url: http://localhost:60887/Admin/YardIn
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/11/2025 14:35:27
+
+Error Line No: at SayyarahCars.Admin.YardIn.GetAllYardInData()
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.YardIn
+
+Error Page Url: http://localhost:60887/Admin/YardIn
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/11/2025 14:35:28
+
+Error Line No: at SayyarahCars.Admin.YardIn.GetAllYardInData()
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.YardIn
+
+Error Page Url: http://localhost:60887/Admin/YardIn
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

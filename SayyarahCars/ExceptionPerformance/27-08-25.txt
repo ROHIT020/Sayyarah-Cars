@@ -1,0 +1,19 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/08/2025 17:26:12
+
+Error Line No: N/A
+
+Error Message: Thread was being aborted.
+
+Exception Type: CustomLog
+
+Error Location: N/A
+
+Error Page Url: http://localhost:8006/Admin/Add-Purchase?id=CvOqGitnAusClAd3OkJ+cg%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

@@ -1,0 +1,19 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 30/10/2025 09:23:15
+
+Error Line No: at SayyarahCars.Admin.Full_Report.CreateExcelFile(DataTable Excel) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Full-Report.aspx.cs:line 161
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Full-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

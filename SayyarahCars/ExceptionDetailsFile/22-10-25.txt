@@ -1,0 +1,38 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 22/10/2025 09:23:20
+
+Error Line No: at SayyarahCars.Admin.Document_Another_Status.CreateExcelFile(DataTable Excel)
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Document-Another-Status
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 22/10/2025 09:23:51
+
+Error Line No: at SayyarahCars.Admin.Document_Another_Status.CreateExcelFile(DataTable Excel)
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Document-Another-Status
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

@@ -1,0 +1,57 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 04/11/2025 15:23:31
+
+Error Line No: at SayyarahCars.Admin.Full_Report.AllFullReport()
+
+Error Message: Unable to cast object of type 'System.Data.DataTable' to type 'System.IConvertible'.
+
+Exception Type: System.InvalidCastException
+
+Error Location: System.Convert
+
+Error Page Url: http://localhost:60887/Admin/Full-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 04/11/2025 15:26:07
+
+Error Line No: at SayyarahCars.Admin.Full_Report.AllFullReport()
+
+Error Message: There is no row at position 1.
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location: System.Data.RBTree`1
+
+Error Page Url: http://localhost:60887/Admin/Full-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 04/11/2025 15:26:37
+
+Error Line No: at SayyarahCars.Admin.Full_Report.AllFullReport()
+
+Error Message: There is no row at position 1.
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location: System.Data.RBTree`1
+
+Error Page Url: http://localhost:60887/Admin/Full-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

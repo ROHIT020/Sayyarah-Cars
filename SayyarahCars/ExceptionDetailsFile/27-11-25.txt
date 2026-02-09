@@ -1,0 +1,228 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/11/2025 14:12:34
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'USP_ManagePurchaseDML' expects parameter '@SubCId', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Add-Purchase?id=MBzBw6RWGgXRi846hEfnLw==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/11/2025 14:12:37
+
+Error Line No: at SayyarahCars.Admin.Add_Purchase.Page_Load(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Add-Purchase.aspx.cs:line 36
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Add_Purchase
+
+Error Page Url: http://localhost:60887/Admin/Add-Purchase?id=MBzBw6RWGgXRi846hEfnLw==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/11/2025 14:17:06
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'USP_ManagePurchaseDML' expects parameter '@SubCId', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Add-Purchase?id=MBzBw6RWGgXRi846hEfnLw==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/11/2025 14:17:07
+
+Error Line No: at SayyarahCars.Admin.Add_Purchase.Page_Load(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Add-Purchase.aspx.cs:line 36
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Add_Purchase
+
+Error Page Url: http://localhost:60887/Admin/Add-Purchase?id=MBzBw6RWGgXRi846hEfnLw==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/11/2025 14:20:34
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'USP_ManagePurchaseDML' expects parameter '@SubCId', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Add-Purchase?id=MBzBw6RWGgXRi846hEfnLw==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/11/2025 14:20:35
+
+Error Line No: at SayyarahCars.Admin.Add_Purchase.Page_Load(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Add-Purchase.aspx.cs:line 36
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Add_Purchase
+
+Error Page Url: http://localhost:60887/Admin/Add-Purchase?id=MBzBw6RWGgXRi846hEfnLw==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/11/2025 14:27:55
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'USP_ManagePurchaseDML' expects parameter '@SubCId', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Add-Purchase?id=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/11/2025 14:28:00
+
+Error Line No: at SayyarahCars.Admin.Add_Purchase.Page_Load(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Add-Purchase.aspx.cs:line 36
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Add_Purchase
+
+Error Page Url: http://localhost:60887/Admin/Add-Purchase?id=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/11/2025 14:59:12
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'USP_ManagePurchaseDML' expects parameter '@SubCId', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Add-Purchase?id=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/11/2025 15:02:16
+
+Error Line No: at SayyarahCars.Admin.Add_Purchase.Page_Load(Object sender, EventArgs e)
+
+Error Message: Column 'categoryid' does not belong to table Table.
+
+Exception Type: System.ArgumentException
+
+Error Location: System.Data.DataRow
+
+Error Page Url: http://localhost:60887/Admin/Add-Purchase?id=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/11/2025 15:03:11
+
+Error Line No: at SayyarahCars.Admin.Add_Purchase.Page_Load(Object sender, EventArgs e)
+
+Error Message: Column 'SID' does not belong to table Table.
+
+Exception Type: System.ArgumentException
+
+Error Location: System.Data.DataRow
+
+Error Page Url: http://localhost:60887/Admin/Add-Purchase?id=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/11/2025 15:05:14
+
+Error Line No: at SayyarahCars.Admin.Add_Purchase.Page_Load(Object sender, EventArgs e)
+
+Error Message: Column 'SellerType' does not belong to table Table.
+
+Exception Type: System.ArgumentException
+
+Error Location: System.Data.DataRow
+
+Error Page Url: http://localhost:60887/Admin/Add-Purchase?id=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

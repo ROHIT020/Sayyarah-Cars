@@ -1,0 +1,95 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 06/11/2025 15:56:02
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'GetAllProductChecking' expects parameter '@LID', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Product-Checking
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 06/11/2025 16:05:52
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'GetAllProductChecking' expects parameter '@LID', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Product-Checking
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 06/11/2025 16:06:04
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'GetAllProductChecking' expects parameter '@LID', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Product-Checking
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 06/11/2025 16:06:43
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'GetAllProductChecking' expects parameter '@LID', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Product-Checking
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 06/11/2025 16:38:55
+
+Error Line No: at SayyarahCars.Admin.Product_Checking.CreateExcelFile(DataTable Excel) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Product-Checking.aspx.cs:line 175
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Product-Checking
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

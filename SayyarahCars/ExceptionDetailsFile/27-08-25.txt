@@ -1,0 +1,304 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/08/2025 16:25:51
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'AuctionPaymentDML' expects parameter '@Ctype', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:8006/Admin/Add-Push-Price?id=CvOqGitnAusClAd3OkJ+cg==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/08/2025 16:25:51
+
+Error Line No: at SayyarahCars.Admin.Add_Push_Price.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Add-Push-Price.aspx.cs:line 32
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Add_Push_Price
+
+Error Page Url: http://localhost:8006/Admin/Add-Push-Price?id=CvOqGitnAusClAd3OkJ+cg==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/08/2025 16:29:39
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'AuctionPaymentDML' expects parameter '@Ctype', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:8006/Admin/Add-Push-Price?id=CvOqGitnAusClAd3OkJ+cg==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/08/2025 16:29:39
+
+Error Line No: at SayyarahCars.Admin.Add_Push_Price.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Add-Push-Price.aspx.cs:line 32
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Add_Push_Price
+
+Error Page Url: http://localhost:8006/Admin/Add-Push-Price?id=CvOqGitnAusClAd3OkJ+cg==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/08/2025 16:56:20
+
+Error Line No: at SayyarahCars.Admin.Add_Push_Price.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Add-Push-Price.aspx.cs:line 32
+
+Error Message: String was not recognized as a valid DateTime.
+
+Exception Type: System.FormatException
+
+Error Location: System.DateTimeParse
+
+Error Page Url: http://localhost:8006/Admin/Add-Push-Price?id=CvOqGitnAusClAd3OkJ+cg==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/08/2025 17:21:23
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Column name or number of supplied values does not match table definition.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/08/2025 17:21:23
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 123
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/08/2025 17:21:30
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Column name or number of supplied values does not match table definition.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/08/2025 17:21:30
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 123
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/08/2025 17:21:57
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Column name or number of supplied values does not match table definition.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/08/2025 17:21:57
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 123
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/08/2025 17:22:11
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Column name or number of supplied values does not match table definition.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/08/2025 17:22:11
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 123
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/08/2025 17:23:59
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Column name or number of supplied values does not match table definition.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/08/2025 17:26:19
+
+Error Line No: at SayyarahCars.Admin.Add_Push_Price.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Add-Push-Price.aspx.cs:line 32
+
+Error Message: Invalid length for a Base-64 char array or string.
+
+Exception Type: System.FormatException
+
+Error Location: System.Convert
+
+Error Page Url: http://localhost:8006/Admin/Add-Push-Price?id=2
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 27/08/2025 17:26:28
+
+Error Line No: at SayyarahCars.Admin.Add_Push_Price.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Add-Push-Price.aspx.cs:line 32
+
+Error Message: Invalid length for a Base-64 char array or string.
+
+Exception Type: System.FormatException
+
+Error Location: System.Convert
+
+Error Page Url: http://localhost:8006/Admin/Add-Push-Price?id=2
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

@@ -1,0 +1,19 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 26/09/2025 12:08:39
+
+Error Line No: at SayyarahCars.Admin.AddBankDetails.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) in Y:\SayyarahCars\SayyarahCars\Admin\AddBankDetails.aspx.cs:line 138
+
+Error Message: Column 'CompanyNameId' does not belong to table Table.
+
+Exception Type: System.ArgumentException
+
+Error Location: System.Data.DataRow
+
+Error Page Url: http://192.168.10.99:8006/Admin/AddBankDetails
+
+User Host IP: 192.168.10.45
+
+
+--------------------------------*End*------------------------------------------
+

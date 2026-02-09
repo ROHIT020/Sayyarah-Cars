@@ -1,0 +1,57 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 22/07/2025 16:16:50
+
+Error Line No: at SayyarahCars.CommonMasters.AddPortPriceMaster.btnSubmit_Click(Object sender, EventArgs e) in D:\18072025\SayyarahCars\SayyarahCars\CommonMasters\AddPortPriceMaster.aspx.cs:line 81
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:60887/CommonMasters/AddPortPriceMaster?id=l05Ft2jc4dKztDTsRQ5Eew%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 22/07/2025 16:17:02
+
+Error Line No: at SayyarahCars.CommonMasters.AddPortPriceMaster.btnSubmit_Click(Object sender, EventArgs e) in D:\18072025\SayyarahCars\SayyarahCars\CommonMasters\AddPortPriceMaster.aspx.cs:line 81
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:60887/CommonMasters/AddPortPriceMaster?id=l05Ft2jc4dKztDTsRQ5Eew%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 22/07/2025 16:17:17
+
+Error Line No: at SayyarahCars.CommonMasters.AddPortPriceMaster.btnSubmit_Click(Object sender, EventArgs e) in D:\18072025\SayyarahCars\SayyarahCars\CommonMasters\AddPortPriceMaster.aspx.cs:line 81
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:60887/CommonMasters/AddPortPriceMaster?id=l05Ft2jc4dKztDTsRQ5Eew%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

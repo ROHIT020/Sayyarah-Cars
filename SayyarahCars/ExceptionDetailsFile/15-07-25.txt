@@ -1,0 +1,190 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 15/07/2025 12:06:41
+
+Error Line No: at SayyarahCars.Admin.Masters.ManageMenu.Page_Load(Object sender, EventArgs e) in D:\Professional\Projects\SayyarahCars\SayyarahCars\Admin\Masters\ManageMenu.aspx.cs:line 28
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/admin/Masters/ManageMenu
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 15/07/2025 12:08:39
+
+Error Line No: at SayyarahCars.Admin.Masters.ManageMenu.Page_Load(Object sender, EventArgs e) in D:\Professional\Projects\SayyarahCars\SayyarahCars\Admin\Masters\ManageMenu.aspx.cs:line 28
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/admin/Masters/ManageMenu
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 15/07/2025 12:09:57
+
+Error Line No: at SayyarahCars.Admin.Masters.ManageMenu.Page_Load(Object sender, EventArgs e) in D:\Professional\Projects\SayyarahCars\SayyarahCars\Admin\Masters\ManageMenu.aspx.cs:line 28
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: COMMON.CommonFunction
+
+Error Page Url: http://localhost:8006/admin/Masters/ManageMenu
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 15/07/2025 12:16:02
+
+Error Line No: at SayyarahCars.Admin.Masters.ManageMenu.Page_Load(Object sender, EventArgs e) in D:\Professional\Projects\SayyarahCars\SayyarahCars\Admin\Masters\ManageMenu.aspx.cs:line 27
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: COMMON.CommonFunction
+
+Error Page Url: http://localhost:8006/admin/Masters/ManageMenu
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 15/07/2025 12:17:10
+
+Error Line No: at SayyarahCars.Admin.Masters.ManageMenu.Page_Load(Object sender, EventArgs e) in D:\Professional\Projects\SayyarahCars\SayyarahCars\Admin\Masters\ManageMenu.aspx.cs:line 27
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: COMMON.CommonFunction
+
+Error Page Url: http://localhost:8006/admin/Masters/ManageMenu
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 15/07/2025 12:19:40
+
+Error Line No: at SayyarahCars.Admin.Masters.ManageMenu.Page_Load(Object sender, EventArgs e) in D:\Professional\Projects\SayyarahCars\SayyarahCars\Admin\Masters\ManageMenu.aspx.cs:line 27
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: COMMON.CommonFunction
+
+Error Page Url: http://localhost:8006/admin/Masters/ManageMenu
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 15/07/2025 12:19:53
+
+Error Line No: at SayyarahCars.Admin.Masters.ManageMenu.Page_Load(Object sender, EventArgs e) in D:\Professional\Projects\SayyarahCars\SayyarahCars\Admin\Masters\ManageMenu.aspx.cs:line 27
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: COMMON.CommonFunction
+
+Error Page Url: http://localhost:8006/admin/Masters/ManageMenu
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 15/07/2025 12:24:00
+
+Error Line No: at SayyarahCars.Admin.Masters.ManageMenu.Page_Load(Object sender, EventArgs e) in D:\Professional\Projects\SayyarahCars\SayyarahCars\Admin\Masters\ManageMenu.aspx.cs:line 27
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'ID'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:8006/admin/Masters/ManageMenu
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 15/07/2025 12:24:32
+
+Error Line No: at SayyarahCars.Admin.Masters.ManageMenu.bindsearch(Int32 pageNo) in D:\Professional\Projects\SayyarahCars\SayyarahCars\Admin\Masters\ManageMenu.aspx.cs:line 92
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Mname'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:8006/admin/Masters/ManageMenu
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 15/07/2025 14:39:50
+
+Error Line No: at SayyarahCars.Admin.Masters.ManageMenu.Page_Load(Object sender, EventArgs e) in D:\Professional\Projects\SayyarahCars\SayyarahCars\Admin\Masters\ManageMenu.aspx.cs:line 27
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: COMMON.CommonFunction
+
+Error Page Url: http://localhost:8006/admin/Masters/ManageMenu
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

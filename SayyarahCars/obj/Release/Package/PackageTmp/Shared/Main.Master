@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.Master.cs" Inherits="SayyarahCars.Main" %>
+
+<%@ Register Src="~/Shared/adminmenu.ascx" TagName="leftmenu" TagPrefix="uc" %>
+<%@ Register Src="~/Shared/adminheader.ascx" TagName="header" TagPrefix="uc" %>
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+ <meta charset="utf-8" />
+    <title>Sayyarah Cars Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta content="Bizupon" name="author" />
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet" />
+    <link href="../Contents/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../Contents/css/tabler-icons.min.css" rel="stylesheet" />
+    <link href="../Contents/css/style.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <uc:leftmenu ID="left" runat="server" />
+        <div class="content-area">
+            <uc:header ID="header" runat="server" />
+            <div class="content-block">
+                <div class="container-fluid">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+               </div>
+            </div>
+        </div>
+    </form>
+    <script src="../Contents/js/jquery.min.js"></script>
+    <script src="../Contents/js/bootstrap.min.js"></script>  
+    <script src="../Contents/js/admin.js"></script>
+    
+</body>
+</html>

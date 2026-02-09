@@ -1,0 +1,95 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 10/10/2025 11:07:19
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Update-Logistics.aspx.cs:line 179
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Update_Logistics
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 10/10/2025 11:12:42
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameter is already contained by another SqlParameterCollection.
+
+Exception Type: System.ArgumentException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 10/10/2025 11:12:51
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Update-Logistics.aspx.cs:line 179
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Update_Logistics
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 10/10/2025 14:07:03
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnUpdate_Click(Object sender, EventArgs e)
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: DAL.clsAdmin
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 10/10/2025 15:15:01
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnUpdate_Click(Object sender, EventArgs e)
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Update_Logistics
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

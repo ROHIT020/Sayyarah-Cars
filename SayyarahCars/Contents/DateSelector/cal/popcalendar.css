@@ -1,0 +1,142 @@
+.dropdown-style, .table-style {
+	font-family: arial;
+	font-size: 11px;
+	border-width: 1px;
+}
+
+select.scwHead, td.scw, td.scwDrag, td.scwNow, td.scwWeek {
+	color: #333 !important
+}
+
+.table-style {
+	border-style: solid;
+	border-color: #a0a0a0;
+	background-color: #fff
+}
+
+.div-style {
+	z-index: 999;
+	position: absolute;
+	visibility: hidden
+}
+
+.title-style {
+	padding: 2px;
+	font-family: arial;
+	font-size: 11px;
+	color: #fff
+}
+
+.title-background-style {
+	background-color: red
+}
+
+.title-control-normal-style {
+	border-style: none;
+	cursor: pointer
+}
+
+.title-control-select-style {
+	cursor: pointer
+}
+
+.dropdown-style {
+	border-style: solid;
+	background-color: #ececec;
+	border-color: #f5f5f5;
+	color: #333;
+	cursor: default
+}
+
+.dropdown-select-style {
+	background-color: #1c7add;
+	cursor:auto;
+}
+
+.dropdown-normal-style {
+	background-color: #ececec
+}
+
+.body-style {
+	padding: 5px;
+	background-color: #fff;
+	font-family: verdana;
+	font-size: 10px
+}
+
+.current-day-style {
+	color: red;
+	font-weight: 700;
+	text-decoration: none
+}
+
+.end-of-weekday-style {
+	color: #909090;
+	text-decoration: none
+}
+
+.normal-day-style {
+	color: #000;
+	text-decoration: none
+}
+
+.selected-day-style {
+	border: 1px solid #a0a0a0;
+	color: #06c;
+	font-weight: 700
+}
+
+.holiday-style {
+	background-color: #fdd
+}
+
+.today-style {
+	padding: 0;
+	color: #fdd;
+	background-color: red;
+	text-align: center;
+	text-decoration: none
+}
+
+.weeknumber-div-style {
+	background-color: #d0d0d0;
+	padding: 0
+}
+
+table.scw {
+	border: 1px solid #999 !important
+}
+
+table.scwHead {
+	background: #009688
+}
+
+input.scwHead, select.scwHead {
+	border: 1px solid #ececec;
+	background: #fff
+}
+
+select.scwHead {
+	font-weight: 400
+}
+
+td.scwDrag {
+	background: #fff !important;
+	padding: 5px 0 !important
+}
+
+td.scw {
+	background: #fff
+}
+
+td.scwNow {
+	background-color: #ececec !important;
+	font-weight: 400 !important;
+}
+
+input.scwClear {
+	padding: 5px 8px !important;
+	background-color: #f1f4f7;
+	border: 1px solid #e5e5e5;
+	border-radius: 4px;	
+}

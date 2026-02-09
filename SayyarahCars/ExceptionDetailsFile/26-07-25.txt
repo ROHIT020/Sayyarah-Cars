@@ -1,0 +1,57 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 26/07/2025 15:45:53
+
+Error Line No: at SayyarahCars.CommonMasters.ManageMenu.bindsearch(Int32 pageNo) in D:\Professional\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageMenu.aspx.cs:line 97
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageMenu
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 26/07/2025 15:47:41
+
+Error Line No: at SayyarahCars.CommonMasters.ManageMenu.bindsearch(Int32 pageNo) in D:\Professional\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageMenu.aspx.cs:line 97
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageMenu
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 26/07/2025 16:16:29
+
+Error Line No: at SayyarahCars.CommonMasters.ManageMenu.bindsearch(Int32 pageNo) in D:\Professional\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageMenu.aspx.cs:line 97
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageMenu
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

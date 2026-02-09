@@ -1,0 +1,361 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/11/2025 09:37:45
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 122
+
+Error Message: Procedure or function 'USP_SearchPurchaseList' expects parameter '@PageIndex', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: COMMON.DataAccess
+
+Error Page Url: http://localhost:60887/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/11/2025 09:37:49
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 122
+
+Error Message: Procedure or function 'USP_SearchPurchaseList' expects parameter '@PageIndex', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: COMMON.DataAccess
+
+Error Page Url: http://localhost:60887/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/11/2025 09:37:59
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 122
+
+Error Message: Procedure or function 'USP_SearchPurchaseList' expects parameter '@PageIndex', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: COMMON.DataAccess
+
+Error Page Url: http://localhost:60887/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/11/2025 14:07:47
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Error converting data type nvarchar to int.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Yearly-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/11/2025 14:08:05
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Error converting data type nvarchar to int.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Yearly-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/11/2025 14:08:48
+
+Error Line No: at SayyarahCars.Admin.Yearly_Report.GetAllYearlyData()
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Yearly_Report
+
+Error Page Url: http://localhost:60887/Admin/Yearly-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/11/2025 14:09:14
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Error converting data type nvarchar to int.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Yearly-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/11/2025 14:09:15
+
+Error Line No: at SayyarahCars.Admin.Yearly_Report.GetAllYearlyData()
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Yearly_Report
+
+Error Page Url: http://localhost:60887/Admin/Yearly-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/11/2025 14:09:28
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Error converting data type nvarchar to int.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Yearly-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/11/2025 14:09:55
+
+Error Line No: at SayyarahCars.Admin.Yearly_Report.GetAllYearlyData()
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Yearly_Report
+
+Error Page Url: http://localhost:60887/Admin/Yearly-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/11/2025 14:10:57
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Error converting data type nvarchar to int.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Yearly-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/11/2025 14:11:59
+
+Error Line No: at SayyarahCars.Admin.Yearly_Report.GetAllYearlyData()
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Yearly_Report
+
+Error Page Url: http://localhost:60887/Admin/Yearly-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/11/2025 14:13:36
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Error converting data type nvarchar to int.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Yearly-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/11/2025 14:13:37
+
+Error Line No: at SayyarahCars.Admin.Yearly_Report.GetAllYearlyData()
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Yearly_Report
+
+Error Page Url: http://localhost:60887/Admin/Yearly-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/11/2025 14:14:26
+
+Error Line No: at SayyarahCars.Admin.Yearly_Report.GetAllYearlyData()
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Consignee Mobile'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Yearly-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/11/2025 14:27:30
+
+Error Line No: at SayyarahCars.Admin.Yearly_Report.CreateExcelFile(DataTable Excel) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Yearly-Report.aspx.cs:line 210
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Yearly-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/11/2025 14:36:41
+
+Error Line No: at SayyarahCars.Admin.Yearly_Report.CreateExcelFile(DataTable Excel) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Yearly-Report.aspx.cs:line 210
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Yearly-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/11/2025 14:47:00
+
+Error Line No: at SayyarahCars.Admin.Yearly_Report.CreateExcelFile(DataTable Excel) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Yearly-Report.aspx.cs:line 210
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Yearly-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/11/2025 16:58:41
+
+Error Line No: at SayyarahCars.Admin.Update_Push_Price.CreateExcelFile(DataTable Excel)
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Update_Push_Price
+
+Error Page Url: http://localhost:60887/Admin/Update-Push-Price
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

@@ -1,0 +1,57 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 25/07/2025 10:38:35
+
+Error Line No: at SayyarahCars.CommonMasters.AddLocation.btnSubmit_Click(Object sender, EventArgs e) in D:\Professional\Projects\SayyarahCars\SayyarahCars\CommonMasters\AddLocation.aspx.cs:line 64
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/CommonMasters/AddLocation?id=Y0qyDXH0c99rTr8X21bYHA%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 25/07/2025 10:48:27
+
+Error Line No: at SayyarahCars.CommonMasters.AddLocation.btnSubmit_Click(Object sender, EventArgs e) in D:\Professional\Projects\SayyarahCars\SayyarahCars\CommonMasters\AddLocation.aspx.cs:line 76
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.CommonMasters.AddLocation
+
+Error Page Url: http://localhost:8006/CommonMasters/AddLocation
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 25/07/2025 10:49:36
+
+Error Line No: at SayyarahCars.CommonMasters.AddLocation.btnSubmit_Click(Object sender, EventArgs e) in D:\Professional\Projects\SayyarahCars\SayyarahCars\CommonMasters\AddLocation.aspx.cs:line 76
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.CommonMasters.AddLocation
+
+Error Page Url: http://localhost:8006/CommonMasters/AddLocation
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

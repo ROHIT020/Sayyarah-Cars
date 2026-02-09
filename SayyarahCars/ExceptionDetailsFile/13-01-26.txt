@@ -1,0 +1,19 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 13/01/2026 14:57:23
+
+Error Line No: at SayyarahCars.Admin.Auction_Car.BindAllDropDown() in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\SayyarahCars\Admin\Auction-Car.aspx.cs:line 60
+
+Error Message: Cannot find table 7.
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location: System.Data.DataTableCollection
+
+Error Page Url: http://localhost:60887/Admin/Auction-car
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

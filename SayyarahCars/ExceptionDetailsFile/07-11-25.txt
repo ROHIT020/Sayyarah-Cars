@@ -1,0 +1,57 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 07/11/2025 14:30:02
+
+Error Line No: at SayyarahCars.Admin.Activation_Rpt.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Activated By'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Activation-Rpt
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 07/11/2025 14:59:13
+
+Error Line No: at SayyarahCars.Admin.Activation_Rpt.CreateExcelFile(DataTable Excel) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Activation-Rpt.aspx.cs:line 183
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Activation-Rpt
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 07/11/2025 15:01:44
+
+Error Line No: at SayyarahCars.Admin.Activation_Rpt.CreateExcelFile(DataTable Excel) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Activation-Rpt.aspx.cs:line 183
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Activation-Rpt
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

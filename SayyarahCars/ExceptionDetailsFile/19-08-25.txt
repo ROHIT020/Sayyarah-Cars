@@ -1,0 +1,38 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 19/08/2025 16:24:39
+
+Error Line No: at SayyarahCars.Admin.Add_Purchase.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Add-Purchase.aspx.cs:line 31
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/Admin/Add-Purchase?id=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 19/08/2025 16:24:49
+
+Error Line No: at SayyarahCars.Admin.Add_Purchase.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Add-Purchase.aspx.cs:line 31
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/Admin/Add-Purchase?id=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

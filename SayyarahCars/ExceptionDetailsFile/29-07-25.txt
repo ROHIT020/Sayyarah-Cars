@@ -1,0 +1,60 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 29/07/2025 12:05:07
+
+Error Line No: at SayyarahCars.CommonMasters.ManageFeatures.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageFeatures.aspx.cs:line 28
+
+Error Message: Insertion index was out of range. Must be non-negative and less than or equal to size.
+Parameter name: index
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location: System.Collections.ArrayList
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageFeatures
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 29/07/2025 12:05:18
+
+Error Line No: at SayyarahCars.CommonMasters.ManageFeatures.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageFeatures.aspx.cs:line 28
+
+Error Message: Insertion index was out of range. Must be non-negative and less than or equal to size.
+Parameter name: index
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location: System.Collections.ArrayList
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageFeatures
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 29/07/2025 12:18:48
+
+Error Line No: at SayyarahCars.CommonMasters.ManageFeatures.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageFeatures.aspx.cs:line 28
+
+Error Message: Insertion index was out of range. Must be non-negative and less than or equal to size.
+Parameter name: index
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location: System.Collections.ArrayList
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageFeatures
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

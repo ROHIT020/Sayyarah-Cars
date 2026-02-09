@@ -1,0 +1,68 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/12/2025 09:49:12
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'GetAllDataForTransportBill' expects parameter '@PageIndex', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/transport-bill
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/12/2025 15:35:53
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid column name 'productid'.
+Invalid column name 'categoryid'.
+Invalid column name 'AuctionId'.
+Invalid column name 'productid'.
+Invalid column name 'TransportId'.
+Invalid column name 'ChassisNo'.
+Invalid column name 'ChassisNo'.
+Invalid column name 'productid'.
+Invalid column name 'categoryid'.
+Invalid column name 'AuctionId'.
+Invalid column name 'productid'.
+Invalid column name 'TransportId'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Update-Remark
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 03/12/2025 15:35:55
+
+Error Line No: at SayyarahCars.Admin.Update_Remark.BindData(Int32 pageIndex) in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\SayyarahCars\Admin\Update-Remark.aspx.cs:line 144
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Update_Remark
+
+Error Page Url: http://localhost:60887/Admin/Update-Remark
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

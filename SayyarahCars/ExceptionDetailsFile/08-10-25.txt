@@ -1,0 +1,38 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 08/10/2025 11:12:58
+
+Error Line No: at SayyarahCars.Admin.Add_Blog.GetBlogsById() in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Add-Blog.aspx.cs:line 137
+
+Error Message: Column 'TopicId' does not belong to table Table.
+
+Exception Type: System.ArgumentException
+
+Error Location: System.Data.DataRow
+
+Error Page Url: http://localhost:60887/Admin/Add-Blog?id=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 08/10/2025 11:13:12
+
+Error Line No: at SayyarahCars.Admin.Add_Blog.GetBlogsById() in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Add-Blog.aspx.cs:line 137
+
+Error Message: Column 'TopicId' does not belong to table Table.
+
+Exception Type: System.ArgumentException
+
+Error Location: System.Data.DataRow
+
+Error Page Url: http://localhost:60887/Admin/Add-Blog?id=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

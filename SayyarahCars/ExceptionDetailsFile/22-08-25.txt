@@ -1,0 +1,19 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 22/08/2025 15:39:47
+
+Error Line No: at SayyarahCars.Admin.Add_Purchase.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Add-Purchase.aspx.cs:line 35
+
+Error Message: The IListSource does not contain any data sources.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataSourceHelper
+
+Error Page Url: http://localhost:8006/Admin/Add-Purchase?id=0npS3Krc0EGoHRJy+nUezQ%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

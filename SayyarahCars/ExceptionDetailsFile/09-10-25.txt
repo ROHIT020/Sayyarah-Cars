@@ -1,0 +1,665 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 09:59:17
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure GetMasterTransPortDetails has no parameters and arguments were supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 10:19:37
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Update-Logistics.aspx.cs:line 143
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Rickujidate'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 10:20:56
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Rickujidate'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 10:21:03
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Rickujidate'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 10:21:29
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Urgent'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 10:29:21
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Urgent'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 10:40:59
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Urgent'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 10:46:44
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'OrderType'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 10:47:56
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Auction Name'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 10:48:03
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Name'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 10:50:14
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Auction Source'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 10:51:47
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Auction Source'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 10:52:50
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'AuctionID'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 10:55:22
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SoldPrice'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 11:05:17
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'PPidate'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 11:31:17
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Rickujidate'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 11:32:02
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Rickujidate'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 11:33:43
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Rickujidate'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 11:34:58
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Rickujidate'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 11:37:17
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Rickujidate'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 11:40:13
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'FinalSoldPrice'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 11:41:21
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Rickujidate'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 11:56:09
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Dsdate'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 11:56:32
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SAdate'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 11:57:04
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Costomer Broker'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 12:04:09
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SAdate'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 12:04:25
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Costomer Broker'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 12:10:12
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Costomer Broker'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 12:10:22
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Consignee Name'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 12:11:40
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Notify'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 12:40:47
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'NAdate'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 12:41:12
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Ano'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 12:42:22
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Aremark'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 14:09:53
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'AuctionRemark'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 09/10/2025 14:23:11
+
+Error Line No: at SayyarahCars.Admin.Update_Logistics.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'uregid'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Update-Logistics
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

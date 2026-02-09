@@ -1,0 +1,38 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 25/08/2025 16:21:15
+
+Error Line No: at SayyarahCars.CommonMasters.AddLocation.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\AddLocation.aspx.cs:line 30
+
+Error Message: Column 'Archive' does not belong to table Table.
+
+Exception Type: System.ArgumentException
+
+Error Location: System.Data.DataRow
+
+Error Page Url: http://localhost:8006/CommonMasters/AddLocation?id=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 25/08/2025 16:21:33
+
+Error Line No: at SayyarahCars.CommonMasters.AddLocation.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\AddLocation.aspx.cs:line 30
+
+Error Message: Column 'Archive' does not belong to table Table.
+
+Exception Type: System.ArgumentException
+
+Error Location: System.Data.DataRow
+
+Error Page Url: http://localhost:8006/CommonMasters/AddLocation?id=CvOqGitnAusClAd3OkJ+cg==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

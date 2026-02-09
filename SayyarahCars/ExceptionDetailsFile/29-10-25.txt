@@ -1,0 +1,234 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 29/10/2025 16:20:35
+
+Error Line No: at SayyarahCars.Admin.Full_Report.btnSubmit_Click(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Full-Report.aspx.cs:line 101
+
+Error Message: Specified argument was out of the range of valid values.
+Parameter name: value
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location: System.Web.UI.WebControls.GridView
+
+Error Page Url: http://localhost:60887/Admin/Full-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 29/10/2025 16:24:23
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'GetFullReports' expects parameter '@CountryId', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Full-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 29/10/2025 16:24:27
+
+Error Line No: at SayyarahCars.Admin.Full_Report.btnSubmit_Click(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Full-Report.aspx.cs:line 103
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Full_Report
+
+Error Page Url: http://localhost:60887/Admin/Full-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 29/10/2025 16:27:58
+
+Error Line No: at SayyarahCars.Admin.Full_Report.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: Specified argument was out of the range of valid values.
+Parameter name: value
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location: System.Web.UI.WebControls.GridView
+
+Error Page Url: http://localhost:60887/Admin/Full-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 29/10/2025 16:32:12
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: The conversion of a nvarchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Full-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 29/10/2025 16:32:12
+
+Error Line No: at SayyarahCars.Admin.Full_Report.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Full_Report
+
+Error Page Url: http://localhost:60887/Admin/Full-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 29/10/2025 16:32:21
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: The conversion of a nvarchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Full-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 29/10/2025 16:32:22
+
+Error Line No: at SayyarahCars.Admin.Full_Report.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Full_Report
+
+Error Page Url: http://localhost:60887/Admin/Full-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 29/10/2025 16:32:28
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: The conversion of a nvarchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Full-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 29/10/2025 16:32:28
+
+Error Line No: at SayyarahCars.Admin.Full_Report.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Full_Report
+
+Error Page Url: http://localhost:60887/Admin/Full-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 29/10/2025 16:33:14
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: The conversion of a nvarchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Full-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 29/10/2025 16:41:45
+
+Error Line No: at SayyarahCars.Admin.Full_Report.CreateExcelFile(DataTable Excel)
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Full-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

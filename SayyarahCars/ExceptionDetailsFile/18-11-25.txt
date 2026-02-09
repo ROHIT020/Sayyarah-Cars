@@ -1,0 +1,76 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 18/11/2025 11:10:14
+
+Error Line No: at SayyarahCars.Admin.Daily_Report.GetAllDailyReportData() in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Daily-Report.aspx.cs:line 106
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Mcode'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Daily-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 18/11/2025 11:10:56
+
+Error Line No: at SayyarahCars.Admin.Add_Purchase.Page_Load(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Add-Purchase.aspx.cs:line 36
+
+Error Message: The input data is not a complete block.
+
+Exception Type: System.Security.Cryptography.CryptographicException
+
+Error Location: System.Security.Cryptography.CapiSymmetricAlgorithm
+
+Error Page Url: http://localhost:60887/Admin/add-purchase?Id=1014
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 18/11/2025 11:36:54
+
+Error Line No: at SayyarahCars.Admin.Daily_Report.CreateExcelFile(DataTable Excel) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Daily-Report.aspx.cs:line 194
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Daily-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 18/11/2025 11:37:58
+
+Error Line No: at SayyarahCars.Admin.Daily_Report.CreateExcelFile(DataTable Excel)
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Daily-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

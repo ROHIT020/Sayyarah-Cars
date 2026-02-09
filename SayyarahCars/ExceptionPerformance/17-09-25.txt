@@ -1,0 +1,247 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 14:30:44
+
+Error Line No: N/A
+
+Error Message: Thread was being aborted.
+
+Exception Type: CustomLog
+
+Error Location: N/A
+
+Error Page Url: http://localhost:8006/Admin/Add-Purchase?id=nnkYzile1ZZblC96TQcxqg%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 14:30:58
+
+Error Line No: N/A
+
+Error Message: Thread was being aborted.
+
+Exception Type: CustomLog
+
+Error Location: N/A
+
+Error Page Url: http://localhost:8006/Admin/Add-Purchase?id=nnkYzile1ZZblC96TQcxqg%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 14:31:34
+
+Error Line No: N/A
+
+Error Message: Thread was being aborted.
+
+Exception Type: CustomLog
+
+Error Location: N/A
+
+Error Page Url: http://localhost:8006/Admin/Add-Purchase?id=nnkYzile1ZZblC96TQcxqg%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 14:38:45
+
+Error Line No: N/A
+
+Error Message: Thread was being aborted.
+
+Exception Type: CustomLog
+
+Error Location: N/A
+
+Error Page Url: http://localhost:8006/Admin/Add-Purchase?id=nnkYzile1ZZblC96TQcxqg%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 14:52:10
+
+Error Line No: N/A
+
+Error Message: Thread was being aborted.
+
+Exception Type: CustomLog
+
+Error Location: N/A
+
+Error Page Url: http://localhost:8006/Admin/Add-Purchase?id=nnkYzile1ZZblC96TQcxqg%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 15:43:40
+
+Error Line No: N/A
+
+Error Message: Thread was being aborted.
+
+Exception Type: CustomLog
+
+Error Location: N/A
+
+Error Page Url: http://localhost:8006/Admin/Add-Purchase?id=nnkYzile1ZZblC96TQcxqg%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 15:55:05
+
+Error Line No: N/A
+
+Error Message: Thread was being aborted.
+
+Exception Type: CustomLog
+
+Error Location: N/A
+
+Error Page Url: http://localhost:8006/Admin/Add-Purchase?id=nnkYzile1ZZblC96TQcxqg%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 15:59:02
+
+Error Line No: N/A
+
+Error Message: Thread was being aborted.
+
+Exception Type: CustomLog
+
+Error Location: N/A
+
+Error Page Url: http://localhost:60887/Admin/Add-Purchase?id=nnkYzile1ZZblC96TQcxqg%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 16:13:51
+
+Error Line No: N/A
+
+Error Message: Thread was being aborted.
+
+Exception Type: CustomLog
+
+Error Location: N/A
+
+Error Page Url: http://localhost:8006/Admin/Add-Purchase?id=nnkYzile1ZZblC96TQcxqg%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 16:17:16
+
+Error Line No: N/A
+
+Error Message: Thread was being aborted.
+
+Exception Type: CustomLog
+
+Error Location: N/A
+
+Error Page Url: http://localhost:8006/Admin/Add-Purchase?id=nnkYzile1ZZblC96TQcxqg%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 16:33:47
+
+Error Line No: N/A
+
+Error Message: Thread was being aborted.
+
+Exception Type: CustomLog
+
+Error Location: N/A
+
+Error Page Url: http://localhost:8006/Admin/Add-Purchase?id=nnkYzile1ZZblC96TQcxqg%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 16:33:53
+
+Error Line No: N/A
+
+Error Message: Thread was being aborted.
+
+Exception Type: CustomLog
+
+Error Location: N/A
+
+Error Page Url: http://localhost:8006/Admin/Add-Purchase?id=nnkYzile1ZZblC96TQcxqg%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/09/2025 17:09:59
+
+Error Line No: N/A
+
+Error Message: Thread was being aborted.
+
+Exception Type: CustomLog
+
+Error Location: N/A
+
+Error Page Url: http://localhost:8006/Admin/Add-Purchase?id=nnkYzile1ZZblC96TQcxqg%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

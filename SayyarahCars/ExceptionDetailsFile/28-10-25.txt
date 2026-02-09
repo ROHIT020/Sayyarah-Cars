@@ -1,0 +1,95 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/10/2025 16:26:54
+
+Error Line No: at SayyarahCars.Admin.Transport_Status.btnSubmit_Click(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Transport-Status.aspx.cs:line 126
+
+Error Message: Procedure or function 'GetAllTransportStatus' expects parameter '@ShippinId', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: DAL.clsAdmin
+
+Error Page Url: http://localhost:60887/Admin/Transport-Status
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/10/2025 16:27:21
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'GetAllTransportStatus' expects parameter '@CountryId', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Transport-Status
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/10/2025 16:27:31
+
+Error Line No: at SayyarahCars.Admin.Transport_Status.btnSubmit_Click(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Transport-Status.aspx.cs:line 127
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Transport_Status
+
+Error Page Url: http://localhost:60887/Admin/Transport-Status
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/10/2025 16:28:25
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'GetAllTransportStatus' expects parameter '@CountryId', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Transport-Status
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/10/2025 16:42:51
+
+Error Line No: at SayyarahCars.Admin.Transport_Status.CreateExcelFile(DataTable Excel) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Transport-Status.aspx.cs:line 179
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Transport-Status
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

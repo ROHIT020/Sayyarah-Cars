@@ -1,0 +1,38 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 24/11/2025 14:20:38
+
+Error Line No: at SayyarahCars.Admin.Download_Shipping_Details.GetAllDownloadShipData() in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Download-Shipping-Details.aspx.cs:line 128
+
+Error Message: Procedure or function 'DownloadShiping' expects parameter '@CountryId', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: DAL.Reports.Report
+
+Error Page Url: http://localhost:60887/Admin/Download-Shipping-Details
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 24/11/2025 14:35:07
+
+Error Line No: at SayyarahCars.Admin.Download_Shipping_Details.CreateExcelFile(DataTable Excel) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Download-Shipping-Details.aspx.cs:line 315
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Download-Shipping-Details
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

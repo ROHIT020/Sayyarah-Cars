@@ -1,0 +1,19 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 11/08/2025 11:46:59
+
+Error Line No: at SayyarahCars.Admin.Manage_Products.btnSubmit_Click(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Products.aspx.cs:line 80
+
+Error Message: String was not recognized as a valid Boolean.
+
+Exception Type: System.FormatException
+
+Error Location: System.Boolean
+
+Error Page Url: http://localhost:8006/Admin/Manage-Products
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

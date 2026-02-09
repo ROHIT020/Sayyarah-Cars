@@ -1,0 +1,171 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 15/10/2025 10:49:24
+
+Error Line No: at SayyarahCars.Admin.Document_All_Reports.GetAllMasterData() in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Document-All-Reports.aspx.cs:line 37
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Name'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Document-All-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 15/10/2025 10:49:38
+
+Error Line No: at SayyarahCars.Admin.Document_All_Reports.GetAllMasterData() in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Document-All-Reports.aspx.cs:line 37
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Name'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Document-All-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 15/10/2025 10:49:44
+
+Error Line No: at SayyarahCars.Admin.Document_All_Reports.GetAllMasterData() in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Document-All-Reports.aspx.cs:line 37
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Name'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Document-All-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 15/10/2025 15:33:11
+
+Error Line No: at SayyarahCars.Admin.Document_All_Reports.GetDocumentAlldata() in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Document-All-Reports.aspx.cs:line 100
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Auction Date'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Document-All-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 15/10/2025 15:33:39
+
+Error Line No: at SayyarahCars.Admin.Document_All_Reports.GetDocumentAlldata() in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Document-All-Reports.aspx.cs:line 100
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Anstatus'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Document-All-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 15/10/2025 15:35:12
+
+Error Line No: at SayyarahCars.Admin.Document_All_Reports.GetDocumentAlldata() in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Document-All-Reports.aspx.cs:line 100
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Product Name'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Document-All-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 15/10/2025 15:38:45
+
+Error Line No: at SayyarahCars.Admin.Document_All_Reports.GetDocumentAlldata() in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Document-All-Reports.aspx.cs:line 100
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'InvNo'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Document-All-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 15/10/2025 16:22:40
+
+Error Line No: at SayyarahCars.Admin.Document_All_Reports.GetDocumentAlldata() in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Document-All-Reports.aspx.cs:line 99
+
+Error Message: Invalid length for a Base-64 char array or string.
+
+Exception Type: System.FormatException
+
+Error Location: System.Convert
+
+Error Page Url: http://localhost:60887/Admin/Document-All-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 15/10/2025 16:23:50
+
+Error Line No: at SayyarahCars.Admin.Document_All_Reports.GetDocumentAlldata() in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Document-All-Reports.aspx.cs:line 99
+
+Error Message: Invalid length for a Base-64 char array or string.
+
+Exception Type: System.FormatException
+
+Error Location: System.Convert
+
+Error Page Url: http://localhost:60887/Admin/Document-All-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

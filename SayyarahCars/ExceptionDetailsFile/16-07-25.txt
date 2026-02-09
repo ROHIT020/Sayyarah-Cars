@@ -1,0 +1,38 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 16/07/2025 17:24:20
+
+Error Line No: at SayyarahCars.CommonMasters.ManageMenu.btnsubmit_Click(Object sender, EventArgs e) in D:\Professional\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageMenu.aspx.cs:line 60
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:60887/CommonMasters/ManageMenu
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 16/07/2025 17:24:58
+
+Error Line No: at SayyarahCars.CommonMasters.ManageMenu.btnsubmit_Click(Object sender, EventArgs e) in D:\Professional\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageMenu.aspx.cs:line 60
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:60887/CommonMasters/ManageMenu
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

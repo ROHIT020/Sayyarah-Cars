@@ -1,0 +1,19 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 19/09/2025 15:45:22
+
+Error Line No: at SayyarahCars.Admin.Print_Invoice.Button1_Click(Object sender, EventArgs e) in Z:\SayyarahCars\SayyarahCars\Admin\Print-Invoice.aspx.cs:line 114
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://192.168.0.99:8006/Admin/print-invoice?Id=m%2fYIebK3T1DPLgJf5K%2fP8g%3d%3d
+
+User Host IP: 192.168.0.184
+
+
+--------------------------------*End*------------------------------------------
+

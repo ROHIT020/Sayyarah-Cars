@@ -1,0 +1,38 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/08/2025 16:30:35
+
+Error Line No: at SayyarahCars.Admin.Add_Variant.GetVariantById() in E:\Projects\SayyarahCars\SayyarahCars\Admin\Add-Variant.aspx.cs:line 134
+
+Error Message: Column 'CCType' does not belong to table Table.
+
+Exception Type: System.ArgumentException
+
+Error Location: System.Data.DataRow
+
+Error Page Url: http://localhost:60887/Admin/Add-Variant?id=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 05/08/2025 16:31:02
+
+Error Line No: at SayyarahCars.Admin.Add_Variant.GetVariantById() in E:\Projects\SayyarahCars\SayyarahCars\Admin\Add-Variant.aspx.cs:line 134
+
+Error Message: Column 'CCType' does not belong to table Table.
+
+Exception Type: System.ArgumentException
+
+Error Location: System.Data.DataRow
+
+Error Page Url: http://localhost:60887/Admin/Add-Variant?id=0npS3Krc0EGoHRJy+nUezQ==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

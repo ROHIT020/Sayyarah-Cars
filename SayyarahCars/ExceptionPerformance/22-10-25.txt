@@ -1,0 +1,38 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 22/10/2025 09:20:46
+
+Error Line No: N/A
+
+Error Message: Thread was being aborted.
+
+Exception Type: CustomLog
+
+Error Location: N/A
+
+Error Page Url: http://localhost:60887/Admin/add-purchase?Id=0npS3Krc0EGoHRJy+nUezQ%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 22/10/2025 09:21:22
+
+Error Line No: N/A
+
+Error Message: Thread was being aborted.
+
+Exception Type: CustomLog
+
+Error Location: N/A
+
+Error Page Url: http://localhost:60887/Admin/add-purchase?Id=0npS3Krc0EGoHRJy+nUezQ%3d%3d
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

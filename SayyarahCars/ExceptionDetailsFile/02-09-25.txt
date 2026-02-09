@@ -1,0 +1,38 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 02/09/2025 15:18:20
+
+Error Line No: at SayyarahCars.Admin.Update_Push_Price.CreateExcelFile(DataTable Excel) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Update-Push-Price.aspx.cs:line 137
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:8006/Admin/Update-Push-Price
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 02/09/2025 15:18:20
+
+Error Line No: at SayyarahCars.Admin.Update_Push_Price.btnExport_Click(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Update-Push-Price.aspx.cs:line 154
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: SayyarahCars.Admin.Update_Push_Price
+
+Error Page Url: http://localhost:8006/Admin/Update-Push-Price
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

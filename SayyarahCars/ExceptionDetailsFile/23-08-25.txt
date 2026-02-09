@@ -1,0 +1,876 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:42:26
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:42:26
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 57
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:45:30
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:45:30
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 57
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:45:51
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:45:51
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 57
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:46:43
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:46:43
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 57
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:47:04
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:47:04
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 57
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:48:16
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:48:16
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 65
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:48:27
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:48:27
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 65
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:49:06
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:49:06
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 65
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:49:20
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:49:20
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 65
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:49:39
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:49:39
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 65
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:51:01
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:51:01
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 65
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:51:12
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:51:12
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 65
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:51:45
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 11:51:45
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 65
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 12:03:24
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 12:03:24
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 88
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 12:03:32
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 12:03:32
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 88
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 12:22:21
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:60887/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 12:26:48
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:60887/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 12:30:27
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 90
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:60887/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 12:32:08
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:60887/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 12:32:35
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:60887/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 12:51:12
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 12:51:12
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 90
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 13:00:04
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 13:00:04
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 90
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 13:01:00
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 90
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Purchase
+
+Error Page Url: http://localhost:60887/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 13:02:21
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 100
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Category'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 13:02:31
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 100
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Category'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 13:06:16
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 127
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Category'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 13:06:23
+
+Error Line No: at SayyarahCars.Admin.Manage_Purchase.BindGrid(Int32 PageIndex) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Purchase.aspx.cs:line 127
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Category'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:8006/Admin/Manage-Purchase
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 23/08/2025 14:35:25
+
+Error Line No: at SayyarahCars.Admin.Add_Purchase.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\Admin\Add-Purchase.aspx.cs:line 35
+
+Error Message: Invalid length for a Base-64 char array or string.
+
+Exception Type: System.FormatException
+
+Error Location: System.Convert
+
+Error Page Url: http://localhost:8006/Admin/Add-Purchase?id=1
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

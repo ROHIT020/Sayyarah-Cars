@@ -1,0 +1,19 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 24/10/2025 12:38:35
+
+Error Line No: at SayyarahCars.Admin.Document_Auction_Kanri.GetAllData() in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Document-Auction-Kanri.aspx.cs:line 101
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'FuzokuhinName'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Document-Auction-Kanri
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

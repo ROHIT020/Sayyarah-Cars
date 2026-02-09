@@ -1,0 +1,601 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 10:45:25
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:60887/WebServices/jquerydata.asmx/checkAdminLogin
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 10:49:49
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid column name 'productid'.
+Invalid column name 'PortFromId'.
+Invalid column name 'ChassisNo'.
+Invalid column name 'Nplate'.
+Invalid column name 'Nplate'.
+Invalid column name 'Nplate'.
+Invalid column name 'productid'.
+Invalid column name 'PortFromId'.
+Invalid column name 'productid'.
+Invalid column name 'PortFromId'.
+Invalid column name 'Nplate'.
+Invalid column name 'ChassisNo'.
+Invalid column name 'Nplate'.
+Invalid column name 'Nplate'.
+Invalid column name 'Nplate'.
+Invalid column name 'productid'.
+Invalid column name 'PortFromId'.
+Invalid column name 'Nplate'.
+Invalid column name 'productid'.
+Invalid column name 'PortFromId'.
+Invalid column name 'Nplate'.
+Invalid column name 'Nplate'.
+Invalid column name 'ChassisNo'.
+Invalid column name 'Nplate'.
+Invalid column name 'Nplate'.
+Invalid column name 'Nplate'.
+Invalid column name 'productid'.
+Invalid column name 'PortFromId'.
+Invalid column name 'Nplate'.
+Invalid column name 'Nplate'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Update-doc-Receive-Date
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 10:57:39
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid column name 'productid'.
+Invalid column name 'PortFromId'.
+Invalid column name 'ChassisNo'.
+Invalid column name 'Nplate'.
+Invalid column name 'Nplate'.
+Invalid column name 'Nplate'.
+Invalid column name 'productid'.
+Invalid column name 'PortFromId'.
+Invalid column name 'productid'.
+Invalid column name 'PortFromId'.
+Invalid column name 'Nplate'.
+Invalid column name 'ChassisNo'.
+Invalid column name 'Nplate'.
+Invalid column name 'Nplate'.
+Invalid column name 'Nplate'.
+Invalid column name 'productid'.
+Invalid column name 'PortFromId'.
+Invalid column name 'Nplate'.
+Invalid column name 'productid'.
+Invalid column name 'PortFromId'.
+Invalid column name 'Nplate'.
+Invalid column name 'Nplate'.
+Invalid column name 'ChassisNo'.
+Invalid column name 'Nplate'.
+Invalid column name 'Nplate'.
+Invalid column name 'Nplate'.
+Invalid column name 'productid'.
+Invalid column name 'PortFromId'.
+Invalid column name 'Nplate'.
+Invalid column name 'Nplate'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Update-doc-Receive-Date
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 11:08:12
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'GetAllUpdateDocRDate' expects parameter '@Nplate', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Update-doc-Receive-Date
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 11:18:24
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Procedure or function 'GetAllUpdateDocRDate' expects parameter '@Nplate', which was not supplied.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Update-doc-Receive-Date
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 12:08:49
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid column name 'productid'.
+Invalid column name 'ShippingId'.
+Invalid column name 'ShippingId'.
+Invalid column name 'AuctionId'.
+Invalid column name 'ChassisNo'.
+Invalid column name 'ChassisNo'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Purchase-Report
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 14:04:32
+
+Error Line No: at SayyarahCars.Admin.Auction_Car.BindAllDropDown() in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\SayyarahCars\Admin\Auction-Car.aspx.cs:line 59
+
+Error Message: Cannot find table 7.
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location: System.Data.DataTableCollection
+
+Error Page Url: http://localhost:60887/Admin/Auction-car
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 14:05:37
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid column name 'AuctionId'.
+Invalid column name 'PortFromId'.
+Invalid column name 'categoryid'.
+Invalid column name 'productid'.
+Invalid column name 'AuctionId'.
+Invalid column name 'ChassisNo'.
+Invalid column name 'AuctionId'.
+Invalid column name 'TransportId'.
+Invalid column name 'ProductInDate'.
+Invalid column name 'AuctionId'.
+Invalid column name 'PortFromId'.
+Invalid column name 'categoryid'.
+Invalid column name 'productid'.
+Invalid column name 'AuctionId'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Auction-car
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 14:05:47
+
+Error Line No: at SayyarahCars.Admin.Auction_Car.BindData(Int32 pageIndex) in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\SayyarahCars\Admin\Auction-Car.aspx.cs:line 129
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Auction_Car
+
+Error Page Url: http://localhost:60887/Admin/Auction-car
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 14:13:08
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid column name 'AuctionId'.
+Invalid column name 'PortFromId'.
+Invalid column name 'categoryid'.
+Invalid column name 'productid'.
+Invalid column name 'AuctionId'.
+Invalid column name 'ChassisNo'.
+Invalid column name 'AuctionId'.
+Invalid column name 'TransportId'.
+Invalid column name 'ProductInDate'.
+Invalid column name 'AuctionId'.
+Invalid column name 'PortFromId'.
+Invalid column name 'categoryid'.
+Invalid column name 'productid'.
+Invalid column name 'AuctionId'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Auction-car
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 14:23:58
+
+Error Line No: at SayyarahCars.Admin.Auction_Car.BindData(Int32 pageIndex) in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\SayyarahCars\Admin\Auction-Car.aspx.cs:line 129
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Auction_Car
+
+Error Page Url: http://localhost:60887/Admin/Auction-car
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 14:24:01
+
+Error Line No: at SayyarahCars.Admin.Auction_Car.BindAllDropDown() in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\SayyarahCars\Admin\Auction-Car.aspx.cs:line 59
+
+Error Message: Cannot find table 7.
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location: System.Data.DataTableCollection
+
+Error Page Url: http://localhost:60887/Admin/Auction-car
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 14:24:04
+
+Error Line No: at SayyarahCars.Admin.Auction_Car.BindAllDropDown() in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\SayyarahCars\Admin\Auction-Car.aspx.cs:line 59
+
+Error Message: Cannot find table 7.
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location: System.Data.DataTableCollection
+
+Error Page Url: http://localhost:60887/Admin/Auction-car
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 14:27:29
+
+Error Line No: at SayyarahCars.Admin.Auction_Car.BindAllDropDown() in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\SayyarahCars\Admin\Auction-Car.aspx.cs:line 59
+
+Error Message: Cannot find table 7.
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location: System.Data.DataTableCollection
+
+Error Page Url: http://localhost:60887/Admin/Auction-car
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 14:27:35
+
+Error Line No: at SayyarahCars.Admin.Auction_Car.BindAllDropDown() in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\SayyarahCars\Admin\Auction-Car.aspx.cs:line 59
+
+Error Message: Cannot find table 7.
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location: System.Data.DataTableCollection
+
+Error Page Url: http://localhost:60887/Admin/Auction-car
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 14:30:37
+
+Error Line No: at SayyarahCars.Admin.Auction_Car.BindAllDropDown() in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\SayyarahCars\Admin\Auction-Car.aspx.cs:line 59
+
+Error Message: Cannot find table 7.
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location: System.Data.DataTableCollection
+
+Error Page Url: http://localhost:60887/Admin/Auction-car
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 14:30:53
+
+Error Line No: at SayyarahCars.Admin.Auction_Car.BindAllDropDown() in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\SayyarahCars\Admin\Auction-Car.aspx.cs:line 59
+
+Error Message: Cannot find table 7.
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location: System.Data.DataTableCollection
+
+Error Page Url: http://localhost:60887/Admin/Auction-car
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 14:34:23
+
+Error Line No: at SayyarahCars.Admin.Auction_Car.BindAllDropDown() in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\SayyarahCars\Admin\Auction-Car.aspx.cs:line 60
+
+Error Message: Cannot find table 7.
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location: System.Data.DataTableCollection
+
+Error Page Url: http://localhost:60887/Admin/Auction-car
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 14:34:40
+
+Error Line No: at SayyarahCars.Admin.Auction_Car.BindAllDropDown() in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\SayyarahCars\Admin\Auction-Car.aspx.cs:line 60
+
+Error Message: Cannot find table 7.
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location: System.Data.DataTableCollection
+
+Error Page Url: http://localhost:60887/Admin/Auction-car
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 14:39:59
+
+Error Line No: at SayyarahCars.Admin.Auction_Car.BindAllDropDown() in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\SayyarahCars\Admin\Auction-Car.aspx.cs:line 60
+
+Error Message: Cannot find table 7.
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location: System.Data.DataTableCollection
+
+Error Page Url: http://localhost:60887/Admin/Auction-car
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 14:44:32
+
+Error Line No: at SayyarahCars.Admin.Auction_Car.BindAllDropDown() in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\SayyarahCars\Admin\Auction-Car.aspx.cs:line 63
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Name'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Auction-car
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 14:45:42
+
+Error Line No: at SayyarahCars.Admin.Auction_Car.BindAllDropDown()
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Name'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Auction-car
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 15:14:35
+
+Error Line No: at SayyarahCars.Admin.Auction_Car.btnUpdate_Click(Object sender, EventArgs e) in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\SayyarahCars\Admin\Auction-Car.aspx.cs:line 229
+
+Error Message: String was not recognized as a valid DateTime.
+
+Exception Type: System.FormatException
+
+Error Location: System.DateTimeParse
+
+Error Page Url: http://localhost:60887/Admin/Auction-car
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 15:19:49
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid column name 'productid'.
+Invalid column name 'AuctionId'.
+Invalid column name 'ShippingId'.
+Invalid column name 'PortFromId'.
+Invalid column name 'TransportId'.
+Invalid column name 'AuctionId'.
+Invalid column name 'TransportId'.
+Invalid column name 'PortFromId'.
+Invalid column name 'Nplate'.
+Invalid column name 'Reauction'.
+Invalid column name 'ChassisNo'.
+Invalid column name 'LogisticWishPInDate'.
+Invalid column name 'LogisticWishPInDate'.
+Invalid column name 'Nplate'.
+Invalid column name 'Loading'.
+Invalid column name 'LogisticWishShipDate'.
+Invalid column name 'LogisticWishShipDate'.
+Invalid column name 'WishArrivalDate'.
+Invalid column name 'WishArrivalDate'.
+Invalid column name 'productid'.
+Invalid column name 'AuctionId'.
+Invalid column name 'ShippingId'.
+Invalid column name 'PortFromId'.
+Invalid column name 'TransportId'.
+Invalid column name 'AuctionId'.
+Invalid column name 'TransportId'.
+Invalid column name 'PortFromId'.
+Invalid column name 'Nplate'.
+Invalid column name 'Reauction'.
+Invalid column name 'ChassisNo'.
+Invalid column name 'LogisticWishPInDate'.
+Invalid column name 'LogisticWishPInDate'.
+Invalid column name 'Nplate'.
+Invalid column name 'Loading'.
+Invalid column name 'LogisticWishShipDate'.
+Invalid column name 'LogisticWishShipDate'.
+Invalid column name 'WishArrivalDate'.
+Invalid column name 'WishArrivalDate'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://localhost:60887/Admin/Document-All-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 01/12/2025 15:20:51
+
+Error Line No: at SayyarahCars.Admin.Document_All_Reports.GetDocumentAlldata() in C:\Sayyarah -Cars-1 -Dec-2025\SayyarahCars\SayyarahCars\Admin\Document-All-Reports.aspx.cs:line 130
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Document_All_Reports
+
+Error Page Url: http://localhost:60887/Admin/Document-All-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

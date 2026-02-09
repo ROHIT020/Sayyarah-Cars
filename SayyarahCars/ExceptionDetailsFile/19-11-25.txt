@@ -1,0 +1,76 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 19/11/2025 10:47:18
+
+Error Line No: at SayyarahCars.Admin.Make_Invoice.Page_Load(Object sender, EventArgs e)
+
+Error Message: Object cannot be cast from DBNull to other types.
+
+Exception Type: System.InvalidCastException
+
+Error Location: System.DBNull
+
+Error Page Url: http://localhost:60887/Admin/Make-Invoice?pid=5m6I1vTSqKqgfUDTXDiFHg==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 19/11/2025 10:47:52
+
+Error Line No: at SayyarahCars.Admin.Make_Invoice.Page_Load(Object sender, EventArgs e)
+
+Error Message: Object cannot be cast from DBNull to other types.
+
+Exception Type: System.InvalidCastException
+
+Error Location: System.DBNull
+
+Error Page Url: http://localhost:60887/Admin/Make-Invoice?PId=5m6I1vTSqKqgfUDTXDiFHg==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 19/11/2025 10:50:19
+
+Error Line No: at SayyarahCars.Admin.Make_Invoice.Page_Load(Object sender, EventArgs e)
+
+Error Message: Object cannot be cast from DBNull to other types.
+
+Exception Type: System.InvalidCastException
+
+Error Location: System.DBNull
+
+Error Page Url: http://localhost:60887/Admin/Make-Invoice?pid=5m6I1vTSqKqgfUDTXDiFHg==
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 19/11/2025 12:05:40
+
+Error Line No: at SayyarahCars.CommonMasters.ManageRegion.btnSubmit_Click(Object sender, EventArgs e)
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:60887/CommonMasters/ManageRegion
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

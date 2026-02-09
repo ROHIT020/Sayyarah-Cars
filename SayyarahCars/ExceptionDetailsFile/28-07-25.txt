@@ -1,0 +1,248 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/07/2025 16:20:40
+
+Error Line No: at SayyarahCars.CommonMasters.ManageFeatures.bindsearch() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageFeatures.aspx.cs:line 106
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageFeatures
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/07/2025 16:22:37
+
+Error Line No: at SayyarahCars.CommonMasters.ManageFeatures.bindsearch() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageFeatures.aspx.cs:line 106
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageFeatures
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/07/2025 16:25:56
+
+Error Line No: at SayyarahCars.CommonMasters.ManageFeatures.bindsearch() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageFeatures.aspx.cs:line 106
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageFeatures
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/07/2025 16:42:51
+
+Error Line No: at SayyarahCars.CommonMasters.ManageFeatures.bindsearch() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageFeatures.aspx.cs:line 106
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageFeatures
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/07/2025 16:43:23
+
+Error Line No: at SayyarahCars.CommonMasters.ManageFeatures.bindsearch() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageFeatures.aspx.cs:line 106
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageFeatures
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/07/2025 16:45:42
+
+Error Line No: at SayyarahCars.CommonMasters.ManageFeatures.bindsearch() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageFeatures.aspx.cs:line 104
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageFeatures
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/07/2025 16:48:14
+
+Error Line No: at SayyarahCars.CommonMasters.ManageMenu.bindsearch(Int32 pageNo) in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageMenu.aspx.cs:line 97
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageMenu
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/07/2025 16:49:00
+
+Error Line No: at SayyarahCars.CommonMasters.ManageMenu.bindsearch(Int32 pageNo) in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageMenu.aspx.cs:line 97
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageMenu
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/07/2025 16:49:52
+
+Error Line No: at SayyarahCars.CommonMasters.ManageMenu.bindsearch(Int32 pageNo) in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageMenu.aspx.cs:line 97
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageMenu
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/07/2025 16:55:28
+
+Error Line No: at SayyarahCars.CommonMasters.ManageFeatures.Page_Load(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageFeatures.aspx.cs:line 28
+
+Error Message: Insertion index was out of range. Must be non-negative and less than or equal to size.
+Parameter name: index
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location: System.Collections.ArrayList
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageFeatures
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/07/2025 17:51:07
+
+Error Line No: at SayyarahCars.CommonMasters.View_Category.binddata() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\View-Category.aspx.cs:line 30
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.CommonMasters.View_Category
+
+Error Page Url: http://localhost:8006/CommonMasters/View-Category
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/07/2025 17:51:16
+
+Error Line No: at SayyarahCars.CommonMasters.View_Category.binddata() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\View-Category.aspx.cs:line 30
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.CommonMasters.View_Category
+
+Error Page Url: http://localhost:8006/CommonMasters/View-Category
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 28/07/2025 17:52:01
+
+Error Line No: at SayyarahCars.CommonMasters.View_Category.binddata() in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\View-Category.aspx.cs:line 30
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.CommonMasters.View_Category
+
+Error Page Url: http://localhost:8006/CommonMasters/View-Category
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

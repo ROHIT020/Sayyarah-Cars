@@ -1,0 +1,153 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/10/2025 12:06:45
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 99
+
+Error Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+
+Exception Type: System.ArgumentNullException
+
+Error Location: System.Data.SqlClient.SqlParameterCollection
+
+Error Page Url: http://localhost:60887/Admin/Document-Rikuji-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/10/2025 12:07:37
+
+Error Line No: at SayyarahCars.Admin.Document_Rikuji_Reports.GetAllRikujiData() in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Document-Rikuji-Reports.aspx.cs:line 84
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Anstatus'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Document-Rikuji-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/10/2025 12:35:43
+
+Error Line No: at SayyarahCars.Admin.Document_Rikuji_Reports.CreateExcelFile(DataTable Excel) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Document-Rikuji-Reports.aspx.cs:line 181
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Document-Rikuji-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/10/2025 12:37:32
+
+Error Line No: at SayyarahCars.Admin.Document_Rikuji_Reports.CreateExcelFile(DataTable Excel) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Document-Rikuji-Reports.aspx.cs:line 181
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Document-Rikuji-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/10/2025 12:37:57
+
+Error Line No: at SayyarahCars.Admin.Document_All_Reports.CreateExcelFile(DataTable Excel) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Document-All-Reports.aspx.cs:line 264
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Document-All-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/10/2025 13:58:37
+
+Error Line No: at SayyarahCars.Admin.Document_Rikuji_Reports.CreateExcelFile(DataTable Excel) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Document-Rikuji-Reports.aspx.cs:line 181
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Document-Rikuji-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/10/2025 16:42:05
+
+Error Line No: at SayyarahCars.Admin.Document_Another_Status.GetAllDocAnotherStaus() in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Document-Another-Status.aspx.cs:line 41
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Noofchanges'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Document-Another-Status
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 21/10/2025 16:46:37
+
+Error Line No: at SayyarahCars.Admin.Add_Purchase.Page_Load(Object sender, EventArgs e) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Add-Purchase.aspx.cs:line 36
+
+Error Message: Invalid length for a Base-64 char array or string.
+
+Exception Type: System.FormatException
+
+Error Location: System.Convert
+
+Error Page Url: http://localhost:60887/Admin/add-purchase?Id=13
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

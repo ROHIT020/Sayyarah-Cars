@@ -1,0 +1,114 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/10/2025 11:27:54
+
+Error Line No: at SayyarahCars.Admin.Document_All_Reports.CreateExcelFile(DataTable Excel) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Document-All-Reports.aspx.cs:line 180
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Document-All-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/10/2025 11:30:46
+
+Error Line No: at SayyarahCars.Admin.Document_All_Reports.CreateExcelFile(DataTable Excel) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Document-All-Reports.aspx.cs:line 180
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Document-All-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/10/2025 11:49:22
+
+Error Line No: at SayyarahCars.Admin.Document_All_Reports.CreateExcelFile(DataTable Excel)
+
+Error Message: Thread was being aborted.
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location: System.Threading.Thread
+
+Error Page Url: http://localhost:60887/Admin/Document-All-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/10/2025 14:37:34
+
+Error Line No: at SayyarahCars.Admin.Document_Rikuji_Reports.GetAllMasterData()
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Name'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Document-Rikuji-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/10/2025 14:37:37
+
+Error Line No: at SayyarahCars.Admin.Document_Rikuji_Reports.GetAllMasterData()
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Name'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Document-Rikuji-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 17/10/2025 14:38:41
+
+Error Line No: at SayyarahCars.Admin.Document_Rikuji_Reports.GetAllMasterData()
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Name'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Document-Rikuji-Reports
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

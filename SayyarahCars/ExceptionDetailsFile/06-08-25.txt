@@ -1,0 +1,191 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 06/08/2025 10:47:08
+
+Error Line No: at SayyarahCars.Admin.Manage_Variant.GetallVarint() in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Variant.aspx.cs:line 60
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Variant
+
+Error Page Url: http://localhost:8006/Admin/Manage-Variant
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 06/08/2025 10:47:17
+
+Error Line No: at SayyarahCars.Admin.Manage_Variant.GetallVarint() in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Variant.aspx.cs:line 60
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Variant
+
+Error Page Url: http://localhost:8006/Admin/Manage-Variant
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 06/08/2025 11:14:11
+
+Error Line No: at SayyarahCars.Admin.Manage_Variant.GetallVarint() in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Variant.aspx.cs:line 60
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Variant
+
+Error Page Url: http://localhost:8006/Admin/Manage-Variant
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 06/08/2025 11:14:21
+
+Error Line No: at SayyarahCars.Admin.Manage_Variant.GetallVarint() in E:\Projects\SayyarahCars\SayyarahCars\Admin\Manage-Variant.aspx.cs:line 60
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: SayyarahCars.Admin.Manage_Variant
+
+Error Page Url: http://localhost:8006/Admin/Manage-Variant
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 06/08/2025 15:32:26
+
+Error Line No: at SayyarahCars.CommonMasters.ManageCategory.binddata(String pid) in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageCategory.aspx.cs:line 31
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'ID'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageCategory
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 06/08/2025 15:32:26
+
+Error Line No: at SayyarahCars.CommonMasters.ManageCategory.btnsubmit_Click(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageCategory.aspx.cs:line 160
+
+Error Message: 'ddlpid' has a SelectedIndex which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location: System.Web.UI.WebControls.ListControl
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageCategory
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 06/08/2025 15:37:30
+
+Error Line No: at SayyarahCars.CommonMasters.ManageCategory.binddata(String pid) in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageCategory.aspx.cs:line 40
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Active'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageCategory
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 06/08/2025 15:37:37
+
+Error Line No: at SayyarahCars.CommonMasters.ManageCategory.binddata(String pid) in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageCategory.aspx.cs:line 40
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Active'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageCategory
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 06/08/2025 15:47:19
+
+Error Line No: at SayyarahCars.CommonMasters.ManageCategory.btnsubmit_Click(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageCategory.aspx.cs:line 185
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageCategory
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 06/08/2025 15:47:25
+
+Error Line No: at SayyarahCars.CommonMasters.ManageCategory.btnsubmit_Click(Object sender, EventArgs e) in E:\Projects\SayyarahCars\SayyarahCars\CommonMasters\ManageCategory.aspx.cs:line 185
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageCategory
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

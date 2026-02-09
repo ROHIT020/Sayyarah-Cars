@@ -1,0 +1,76 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 26/11/2025 11:53:27
+
+Error Line No: at SayyarahCars.Admin.Shipped_Cars.GetAllShippedCars() in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Shipped-Cars.aspx.cs:line 121
+
+Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Costomer Broker'.
+
+Exception Type: System.Web.HttpException
+
+Error Location: System.Web.UI.DataBinder
+
+Error Page Url: http://localhost:60887/Admin/Shipped-Cars
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 26/11/2025 14:05:03
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlInternalConnectionTds
+
+Error Page Url: http://localhost:60887/Admin/Shipped-Cars
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 26/11/2025 14:05:06
+
+Error Line No: at SayyarahCars.Admin.Shipped_Cars.GetAllMasterData() in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\SayyarahCars\Admin\Shipped-Cars.aspx.cs:line 33
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: DAL.Reports.Report
+
+Error Page Url: http://localhost:60887/Admin/Shipped-Cars
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 26/11/2025 14:05:06
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in C:\Ramesh\New-UpdatedCode-SayrahCars\SayyarahCars\COMMON\DataAccess.cs:line 94
+
+Error Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.ProviderBase.DbConnectionPool
+
+Error Page Url: http://localhost:60887/Admin/Shipped-Cars
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+

@@ -1,0 +1,114 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 08/08/2025 12:33:04
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid object name 'dbo.CountryMaster'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://192.168.1.99:8006/commonMasters/portpricemaster
+
+User Host IP: 192.168.1.96
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 08/08/2025 12:33:12
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid object name 'dbo.CountryMaster'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://192.168.1.99:8006/commonMasters/portpricemaster
+
+User Host IP: 192.168.1.96
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 08/08/2025 12:33:14
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid object name 'dbo.CountryMaster'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://192.168.1.99:8006/commonMasters/portpricemaster
+
+User Host IP: 192.168.1.96
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 08/08/2025 12:33:17
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid object name 'dbo.CountryMaster'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://192.168.1.99:8006/commonMasters/portpricemaster
+
+User Host IP: 192.168.1.96
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 08/08/2025 12:33:36
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid object name 'dbo.CountryMaster'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://192.168.1.99:8006/commonMasters/portpricemaster
+
+User Host IP: 192.168.1.96
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 08/08/2025 12:33:39
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in E:\Projects\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid object name 'dbo.CountryMaster'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://192.168.1.99:8006/commonMasters/portpricemaster
+
+User Host IP: 192.168.1.96
+
+
+--------------------------------*End*------------------------------------------
+

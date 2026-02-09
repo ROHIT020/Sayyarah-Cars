@@ -1,0 +1,13 @@
+Master
+
+1) admin/fuzokuhin
+2) admin/auction-yard
+3) admin/transport-info
+4) admin/transport-price
+5) admin/fob-price
+6) admin/assign-city
+7) admin/transport-city-relation
+8) admin/update-logistics
+9) admin/upload-document
+10) Manage User> Assign Department
+11) Manage Client> Add Client from Admin

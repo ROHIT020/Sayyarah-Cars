@@ -1,0 +1,285 @@
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 07/08/2025 12:49:07
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in Z:\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Could not find stored procedure 'USP_SelectPort'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://192.168.1.99:8006/CommonMasters/terminalmaster
+
+User Host IP: 192.168.1.96
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 07/08/2025 12:49:07
+
+Error Line No: at SayyarahCars.CommonMasters.TerminalMaster.Page_Load(Object sender, EventArgs e) in Z:\SayyarahCars\SayyarahCars\CommonMasters\TerminalMaster.aspx.cs:line 26
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: COMMON.CommonFunction
+
+Error Page Url: http://192.168.1.99:8006/CommonMasters/terminalmaster
+
+User Host IP: 192.168.1.96
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 07/08/2025 12:49:11
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in Z:\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Could not find stored procedure 'USP_SelectPort'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://192.168.1.99:8006/CommonMasters/AddTerminalMaster
+
+User Host IP: 192.168.1.96
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 07/08/2025 12:49:11
+
+Error Line No: at SayyarahCars.CommonMasters.AddTerminalMaster.Page_Load(Object sender, EventArgs e) in Z:\SayyarahCars\SayyarahCars\CommonMasters\AddTerminalMaster.aspx.cs:line 26
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: COMMON.CommonFunction
+
+Error Page Url: http://192.168.1.99:8006/CommonMasters/AddTerminalMaster
+
+User Host IP: 192.168.1.96
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 07/08/2025 12:49:45
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in Z:\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Could not find stored procedure 'USP_SelectPort'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://192.168.1.99:8006/CommonMasters/terminalmaster
+
+User Host IP: 192.168.1.96
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 07/08/2025 12:49:45
+
+Error Line No: at SayyarahCars.CommonMasters.TerminalMaster.Page_Load(Object sender, EventArgs e) in Z:\SayyarahCars\SayyarahCars\CommonMasters\TerminalMaster.aspx.cs:line 26
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: COMMON.CommonFunction
+
+Error Page Url: http://192.168.1.99:8006/CommonMasters/terminalmaster
+
+User Host IP: 192.168.1.96
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 07/08/2025 12:49:54
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in Z:\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Could not find stored procedure 'USP_SelectPort'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://192.168.1.99:8006/CommonMasters/AddTerminalMaster
+
+User Host IP: 192.168.1.96
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 07/08/2025 12:49:54
+
+Error Line No: at SayyarahCars.CommonMasters.AddTerminalMaster.Page_Load(Object sender, EventArgs e) in Z:\SayyarahCars\SayyarahCars\CommonMasters\AddTerminalMaster.aspx.cs:line 26
+
+Error Message: Object reference not set to an instance of an object.
+
+Exception Type: System.NullReferenceException
+
+Error Location: COMMON.CommonFunction
+
+Error Page Url: http://192.168.1.99:8006/CommonMasters/AddTerminalMaster
+
+User Host IP: 192.168.1.96
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 07/08/2025 12:53:35
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in Z:\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid object name 'State'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://192.168.1.99:8006/CommonMasters/manageregion
+
+User Host IP: 192.168.1.96
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 07/08/2025 12:53:42
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in Z:\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid object name 'State'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://192.168.1.99:8006/CommonMasters/manageregion
+
+User Host IP: 192.168.1.96
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 07/08/2025 12:54:05
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in Z:\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid object name 'State'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://192.168.1.99:8006/CommonMasters/manageregion
+
+User Host IP: 192.168.1.96
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 07/08/2025 14:21:08
+
+Error Line No: at COMMON.DataAccess.GetDataSet(String procname, SqlParameter[] sqlparam) in Z:\SayyarahCars\COMMON\DataAccess.cs:line 101
+
+Error Message: Invalid column name 'Archieve'.
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location: System.Data.SqlClient.SqlConnection
+
+Error Page Url: http://192.168.1.99:8006/CommonMasters/country
+
+User Host IP: 192.168.1.96
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 07/08/2025 14:30:51
+
+Error Line No: at SayyarahCars.CommonMasters.ManageCategory.btnsubmit_Click(Object sender, EventArgs e) in Z:\SayyarahCars\SayyarahCars\CommonMasters\ManageCategory.aspx.cs:line 195
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageCategory
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 07/08/2025 14:40:35
+
+Error Line No: at SayyarahCars.CommonMasters.ManageCategory.btnsubmit_Click(Object sender, EventArgs e) in Z:\SayyarahCars\SayyarahCars\CommonMasters\ManageCategory.aspx.cs:line 195
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageCategory
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
+-----------Exception Details-----------------
+-------------------------------------------------------------------------------------
+Log Written Date: 07/08/2025 14:42:34
+
+Error Line No: at SayyarahCars.CommonMasters.ManageCategory.btnsubmit_Click(Object sender, EventArgs e) in Z:\SayyarahCars\SayyarahCars\CommonMasters\ManageCategory.aspx.cs:line 195
+
+Error Message: Input string was not in a correct format.
+
+Exception Type: System.FormatException
+
+Error Location: System.Number
+
+Error Page Url: http://localhost:8006/CommonMasters/ManageCategory
+
+User Host IP: ::1
+
+
+--------------------------------*End*------------------------------------------
+
